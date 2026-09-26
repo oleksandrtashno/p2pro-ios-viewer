@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+settings.json
+calib.json
+snapshots/
+recordings/
+bin/mediamtx.exe
+bin/mediamtx.log
+models/sr_test.png
+bin/auto.crt
+bin/auto.key

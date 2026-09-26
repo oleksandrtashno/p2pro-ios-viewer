@@ -1,0 +1,2391 @@
+   0.0690 SETUP a0 00 05 01 00 00 00 00 00
+   0.0724 SETUP a1 80 06 00 01 00 00 12 00
+   0.0768 SETUP a1 80 06 02 03 09 04 02 00
+   0.0861 SETUP a1 80 06 02 03 09 04 0e 00
+   0.0877 SETUP a1 80 06 01 03 09 04 02 00
+   0.0888 SETUP a1 80 06 01 03 09 04 14 00
+   0.0904 SETUP a1 80 06 06 03 09 04 02 00
+   0.0918 SETUP a1 80 06 06 03 09 04 22 00
+   0.0933 SETUP a1 80 06 00 02 00 00 09 00
+   0.0961 SETUP a1 80 06 00 02 00 00 40 00
+   0.1055 SETUP a1 00 09 01 00 00 00 00 00
+   0.1872 SETUP a1 80 06 04 03 09 04 02 00
+   0.1896 SETUP a1 80 06 04 03 09 04 1c 00
+   0.1919 SETUP a1 80 06 05 03 09 04 02 00
+   0.1931 SETUP a1 80 06 05 03 09 04 28 00
+   0.2153 iAP<  ff 55 02 00 ee 10
+   0.2182 iAP>  ff 55 02 00 ee 10
+   0.2201 iAP<  ff 5a 00 17 80 00 00 00 10 01 01 10 00 0b b8 05 dc 01 00 0a 00 01 3e
+   0.2205 iAP>  ff 5a 00 17 c0 4b 00 00 85 01 7f ff ff 0b b8 05 dc 01 00 0a 00 01 d2
+   0.2209 iAP<  ff 5a 00 09 40 00 4b 00 13
+   0.2214 iAP>  ff 5a 00 10 40 4c 00 0a 01 40 40 00 06 aa 00 d0
+   0.2221 iAP<  ff 5a 00 09 40 00 4c 00 12
+   0.5444 iAP<  ff 5a 02 75 40 01 4c 0a 99 40 40 02 6b aa 01 02 65 00 00 30 82 02 5d 06 09 2a 86 48 86 f7 0d 01 07 02 a0 82 02 4e 30 82
+   0.7133 iAP<  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 30 0a 06 08 2a 86 48 ce 3d 04 03 02 03 49 00
+   0.7208 iAP>  ff 5a 00 09 40 4c 01 00 11
+   0.7210 iAP>  ff 5a 00 34 40 4d 01 0a db 40 40 00 2a aa 02 00 24 00 00 7b 2a ae 89 c7 89 1f fa 52 c4 84 23 d3 b2 2c ec 74 63 7f dd 67
+   1.0861 iAP<  ff 5a 00 09 40 01 4d 00 10
+   1.2842 iAP<  ff 5a 00 54 40 02 4d 0a ba 40 40 00 4a aa 03 00 44 00 00 3d 29 69 74 1e c9 7a 2f 0a 0a c5 13 06 95 82 2d d7 ef 8e d3 07
+   1.3045 iAP>  ff 5a 00 09 40 4d 02 00 0f
+   1.3048 iAP>  ff 5a 00 10 40 4e 02 0a fd 40 40 00 06 aa 05 cb
+   1.3055 iAP<  ff 5a 00 09 40 02 4e 00 0e
+   1.3058 iAP>  ff 5a 00 10 40 4f 02 0a fc 40 40 00 06 1d 00 5d
+   1.3062 iAP<  ff 5a 00 09 40 02 4f 00 0d
+   1.3124 iAP<  ff 5a 00 e3 40 03 4f 0a 28 40 40 00 d9 1d 01 00 0b 00 00 50 32 20 50 72 6f 00 00 0b 00 01 50 32 20 50 72 6f 00 00 0e 00
+   1.3134 iAP>  ff 5a 00 09 40 4f 03 00 0c
+   1.3284 iAP>  ff 5a 00 10 40 50 03 0a fa 40 40 00 06 1d 02 5b
+   1.3293 iAP<  ff 5a 00 09 40 03 50 00 0b
+   1.3316 iAP<  ff 5a 00 28 40 04 50 0a e1 40 40 00 1e ea 02 00 18 00 00 63 6f 6d 2e 78 69 6e 66 72 61 72 65 64 2e 70 32 70 72 6f 00 0d
+   1.3339 iAP>  ff 5a 00 09 40 50 04 00 0a
+   1.3882 SETUP a1 01 0b 01 00 01 00 00 00
+   1.3914 CMD>  [2] 02 03
+            (EP2 IN: 1 pkts, 14 bytes, first: 00 0e 01 00 01 01 04 00 cc 19 00 00 00 00)
+   1.3952 CMD>  [2] 02 05
+            (EP2 IN: 1 pkts, 112 bytes, first: 00 70 01 00 01 ff 81 00 80 00 00 00 01 02 00 00 00 1e 00 0f 00 01 03 ff)
+   1.4067 CMD>  [6] 06 1e 00 04 00 04
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.4080 CMD>  [6] 06 19 04 20 30 10
+            (EP2 IN: 1 pkts, 19 bytes, first: 13 86 01 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff)
+   1.4106 CMD>  [6] 06 19 04 20 00 30
+            (EP2 IN: 1 pkts, 51 bytes, first: 33 86 01 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff)
+   1.4130 CMD>  [6] 06 19 7f b0 00 1c
+            (EP2 IN: 1 pkts, 31 bytes, first: 1f 86 01 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff)
+   1.4143 CMD>  [6] 06 19 7f b0 00 03
+   1.4221 SETUP a1 02 01 00 00 82 00 00 00
+   1.4228 SETUP a1 02 01 00 00 07 00 00 00
+   1.4235 SETUP a1 01 0b 00 00 01 00 00 00
+   1.4795 SETUP a1 01 0b 01 00 01 00 00 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 ff ff ff)
+   1.4818 CMD>  [2] 02 03
+            (EP2 IN: 1 pkts, 14 bytes, first: 00 0e 01 00 01 01 04 00 cc 19 00 00 00 00)
+   1.4854 CMD>  [2] 02 05
+            (EP2 IN: 1 pkts, 112 bytes, first: 00 70 01 00 01 ff 81 00 80 00 00 00 01 02 00 00 00 1e 00 0f 00 01 03 ff)
+   1.4968 CMD>  [6] 06 1e 00 80 00 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5007 CMD>  [6] 06 1e 00 20 00 20
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5044 CMD>  [5] 05 12 00 24 18
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5070 CMD>  [5] 05 12 00 23 af
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5095 CMD>  [5] 05 12 00 22 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5147 CMD>  [5] 05 12 00 22 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5171 CMD>  [5] 05 12 00 00 2f
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5184 CMD>  [5] 05 12 00 01 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5210 CMD>  [5] 05 12 00 02 60
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5235 CMD>  [5] 05 12 00 03 12
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5260 CMD>  [5] 05 12 00 04 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5286 CMD>  [5] 05 12 00 05 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5311 CMD>  [5] 05 12 00 06 02
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5337 CMD>  [5] 05 12 00 07 05
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5363 CMD>  [5] 05 12 00 08 20
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5389 CMD>  [5] 05 12 00 09 07
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5414 CMD>  [5] 05 12 00 0a 08
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5426 CMD>  [5] 05 12 00 0b 07
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5438 CMD>  [5] 05 12 00 0c 20
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5464 CMD>  [5] 05 12 00 0d 15
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5476 CMD>  [5] 05 12 00 0e 1c
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5490 CMD>  [5] 05 12 00 0f 19
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5503 CMD>  [5] 05 12 00 10 19
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5529 CMD>  [5] 05 12 00 11 32
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5554 CMD>  [5] 05 12 00 12 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5580 CMD>  [5] 05 12 00 13 24
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5605 CMD>  [5] 05 12 00 14 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5631 CMD>  [5] 05 12 00 15 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5644 CMD>  [5] 05 12 00 16 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5670 CMD>  [5] 05 12 00 17 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5695 CMD>  [5] 05 12 00 18 02
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5721 CMD>  [5] 05 12 00 19 02
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5746 CMD>  [5] 05 12 00 1a 13
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5759 CMD>  [5] 05 12 00 1b 25
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5785 CMD>  [5] 05 12 00 1c 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5810 CMD>  [5] 05 12 00 1d 07
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5836 CMD>  [5] 05 12 00 1e 04
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5861 CMD>  [5] 05 12 00 1f 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5887 CMD>  [5] 05 12 00 20 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5913 CMD>  [5] 05 12 00 21 42
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5939 CMD>  [5] 05 12 00 22 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5965 CMD>  [5] 05 12 00 23 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.5990 CMD>  [5] 05 12 00 24 18
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6016 CMD>  [5] 05 12 00 25 04
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6042 CMD>  [5] 05 12 00 26 04
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6068 CMD>  [5] 05 12 00 27 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6093 CMD>  [5] 05 12 00 28 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6119 CMD>  [5] 05 12 00 29 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6145 CMD>  [5] 05 12 00 2a 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6170 CMD>  [5] 05 12 00 2b 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6183 CMD>  [5] 05 12 00 2c 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6208 CMD>  [5] 05 12 00 2d 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6220 CMD>  [5] 05 12 00 2e 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6233 CMD>  [5] 05 12 00 2f 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6260 CMD>  [5] 05 12 00 30 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6285 CMD>  [5] 05 12 00 31 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6310 CMD>  [5] 05 12 00 32 08
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6335 CMD>  [5] 05 12 01 72 0d
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6361 CMD>  [5] 05 12 01 73 0d
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6387 CMD>  [5] 05 12 00 35 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6412 CMD>  [5] 05 12 00 34 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6424 CMD>  [5] 05 12 00 58 0f
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6447 CMD>  [5] 05 12 00 33 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6461 CMD>  [5] 05 12 00 59 27
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6487 CMD>  [5] 05 12 00 5a 06
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6513 CMD>  [5] 05 12 00 36 f0
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6539 CMD>  [5] 05 12 00 37 0a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6564 CMD>  [5] 05 12 00 38 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6589 CMD>  [5] 05 12 00 39 05
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6601 CMD>  [5] 05 12 00 3a 9c
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6615 CMD>  [5] 05 12 00 3b 8b
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6640 CMD>  [5] 05 12 00 3c 73
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6664 CMD>  [5] 05 12 00 3d 5f
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6690 CMD>  [5] 05 12 00 3e 04
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6702 CMD>  [5] 05 12 00 3f 08
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6715 CMD>  [5] 05 12 00 40 1c
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6741 CMD>  [5] 05 12 00 41 20
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6753 CMD>  [5] 05 12 00 42 02
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6766 CMD>  [5] 05 12 00 43 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6792 CMD>  [5] 05 12 00 44 07
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6804 CMD>  [5] 05 12 00 45 06
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6829 CMD>  [5] 05 12 00 46 06
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6842 CMD>  [5] 05 12 00 47 02
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6854 CMD>  [5] 05 12 00 48 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6881 CMD>  [5] 05 12 00 49 07
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6906 CMD>  [5] 05 12 00 4a 06
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6932 CMD>  [5] 05 12 00 4b 05
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6959 CMD>  [5] 05 12 00 4c 02
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.6984 CMD>  [5] 05 12 00 4d 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7011 CMD>  [5] 05 12 00 4e 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7037 CMD>  [5] 05 12 00 4f 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7062 CMD>  [5] 05 12 00 50 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7088 CMD>  [5] 05 12 00 51 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7114 CMD>  [5] 05 12 00 52 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7138 CMD>  [5] 05 12 00 54 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7164 CMD>  [5] 05 12 00 55 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7177 CMD>  [5] 05 12 00 56 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7190 CMD>  [5] 05 12 00 57 03
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7217 CMD>  [5] 05 12 00 5b 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7243 CMD>  [5] 05 12 00 5c 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7269 CMD>  [5] 05 12 01 31 20
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7296 CMD>  [5] 05 12 01 15 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7323 CMD>  [5] 05 12 01 16 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7348 CMD>  [5] 05 12 01 3c 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7374 CMD>  [5] 05 12 01 3d 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7400 CMD>  [5] 05 12 01 34 ce
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7413 CMD>  [5] 05 12 01 35 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7440 CMD>  [5] 05 12 01 19 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7466 CMD>  [5] 05 12 01 1a 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7478 CMD>  [5] 05 12 01 40 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7492 CMD>  [5] 05 12 01 41 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7519 CMD>  [5] 05 12 01 11 5e
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7553 CMD>  [5] 05 12 01 12 02
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7579 CMD>  [5] 05 12 01 32 5e
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7605 CMD>  [5] 05 12 01 33 02
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7630 CMD>  [5] 05 12 00 00 2f
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7657 CMD>  [5] 05 12 00 01 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7682 CMD>  [5] 05 12 01 38 4b
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7708 CMD>  [5] 05 12 01 39 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7721 CMD>  [5] 05 12 01 48 5e
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7735 CMD>  [5] 05 12 01 49 02
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7749 CMD>  [5] 05 12 01 1e 04
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7762 CMD>  [5] 05 12 01 1f 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7774 CMD>  [5] 05 12 01 22 cc
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7803 CMD>  [5] 05 12 01 46 cd
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7829 CMD>  [5] 05 12 01 1e 04
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7855 CMD>  [5] 05 12 01 1f 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7880 CMD>  [5] 05 12 01 22 cc
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7911 CMD>  [5] 05 12 00 1b 26
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7937 CMD>  [5] 05 12 00 21 40
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7964 CMD>  [5] 05 12 01 1c 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.7990 CMD>  [5] 05 12 01 1d 06
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8456 CMD>  [5] 05 12 01 10 80
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8484 CMD>  [5] 05 1b 01 01 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8509 CMD>  [5] 05 1b 01 1c 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8522 CMD>  [36] 24 1b e5 90 57 64 76 67 76 66 66 88 66 67 76 77 75 67 66 76 66 66 77 77 68 77 56 57 68 67 58 66 67 66 67 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8572 CMD>  [36] 24 1b e5 b0 78 87 77 78 74 76 67 67 57 65 65 77 77 66 66 76 57 68 66 68 67 56 58 75 77 66 47 46 65 57 66 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8637 CMD>  [36] 24 1b e5 d0 76 67 76 78 77 66 66 67 87 77 56 46 67 75 66 66 65 57 46 67 36 56 56 66 66 67 67 64 66 66 56 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8701 CMD>  [36] 24 1b e5 f0 67 66 46 55 55 67 66 66 56 75 65 65 67 64 47 66 66 65 56 65 56 65 67 65 57 56 56 56 45 64 66 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8764 CMD>  [6] 06 1b e6 10 56 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8795 CMD>  [36] 24 1b e6 12 46 64 76 55 77 56 46 66 56 65 76 66 76 44 64 87 55 47 78 63 65 78 47 77 66 78 68 66 77 65 57 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8846 CMD>  [36] 24 1b e6 32 75 77 77 66 65 66 67 78 77 76 66 67 57 56 56 77 65 76 77 66 67 57 55 56 76 65 67 56 53 66 55 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8897 CMD>  [36] 24 1b e6 52 76 46 66 67 55 56 67 67 66 55 55 75 76 63 66 75 66 65 65 56 67 56 46 54 65 66 55 55 56 64 46 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.8947 CMD>  [36] 24 1b e6 72 65 55 45 55 56 44 55 55 55 57 65 56 56 46 67 66 65 45 56 56 57 55 46 63 74 55 65 55 57 64 55 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9011 CMD>  [6] 06 1b e6 92 54 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9037 CMD>  [36] 24 1b 81 04 45 65 65 56 66 64 55 57 66 76 76 66 75 66 66 76 65 76 65 67 77 57 65 77 63 66 67 66 78 65 66 57
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9089 CMD>  [36] 24 1b 81 24 67 85 76 56 75 74 74 66 76 56 56 78 47 66 66 77 66 67 77 66 76 77 65 66 76 76 66 66 65 76 56 46
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9152 CMD>  [36] 24 1b 81 44 66 66 67 56 55 75 66 66 65 66 77 56 66 55 65 66 55 66 75 66 75 66 65 65 75 65 55 65 47 75 56 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9216 CMD>  [36] 24 1b 81 64 56 67 47 55 54 65 66 66 53 44 35 56 76 55 65 65 46 45 46 45 55 66 55 76 64 64 54 54 66 45 44 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9268 CMD>  [6] 06 1b 81 84 47 54
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9295 CMD>  [36] 24 1b 81 86 56 64 66 66 55 44 56 63 65 66 66 66 56 75 67 67 56 56 66 57 67 76 67 76 76 56 55 55 77 66 66 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9357 CMD>  [36] 24 1b 81 a6 77 77 67 47 65 66 65 76 57 66 66 66 65 46 65 66 56 66 56 66 56 66 56 65 67 55 36 75 56 44 67 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9409 CMD>  [36] 24 1b 81 c6 75 55 55 67 65 66 65 76 56 57 56 46 54 65 55 55 47 46 66 65 66 56 66 66 65 66 46 56 65 56 46 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9475 CMD>  [36] 24 1b 81 e6 66 65 65 55 56 55 45 56 54 64 54 55 65 56 57 64 65 55 56 55 66 66 66 56 45 54 56 56 56 55 44 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9539 CMD>  [6] 06 1b 82 06 55 63
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9565 CMD>  [36] 24 1b 82 08 88 87 88 98 88 88 87 98 88 84 89 88 88 88 87 87 98 88 89 88 88 88 78 98 88 89 88 88 99 97 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9622 CMD>  [36] 24 1b 82 28 88 88 98 89 78 78 86 88 88 78 97 88 78 87 78 88 88 88 88 88 88 87 68 89 87 88 89 88 88 79 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9687 CMD>  [36] 24 1b 82 48 87 98 97 87 89 78 78 98 89 79 88 78 88 88 68 78 68 67 88 88 78 88 88 97 88 88 78 88 88 88 88 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9738 CMD>  [36] 24 1b 82 68 78 88 88 78 88 77 78 88 88 87 68 88 87 89 88 88 88 88 97 87 89 88 89 88 88 87 78 78 88 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9790 CMD>  [6] 06 1b 82 88 87 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9816 CMD>  [36] 24 1b 82 8a 78 88 99 88 99 98 89 88 87 88 98 99 88 98 89 9a 89 88 89 88 88 89 87 98 a9 99 88 78 97 98 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9868 CMD>  [36] 24 1b 82 aa 98 98 89 89 98 89 88 88 98 89 88 98 88 99 88 99 88 99 89 89 98 89 97 78 88 88 89 88 78 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9933 CMD>  [36] 24 1b 82 ca 98 88 88 88 97 89 88 89 98 89 88 88 88 88 88 88 87 88 87 88 98 78 88 98 88 98 88 97 89 89 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   1.9985 CMD>  [36] 24 1b 82 ea 88 89 88 88 88 88 86 88 88 88 87 89 88 88 88 88 88 88 88 86 89 87 88 78 88 88 88 87 78 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0036 CMD>  [6] 06 1b 83 0a 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0062 CMD>  [36] 24 1b 83 0c 78 88 89 99 88 88 88 98 89 88 a9 89 99 99 99 88 98 88 98 98 98 99 98 68 89 99 88 89 96 99 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0128 CMD>  [36] 24 1b 83 2c 89 a9 89 88 98 88 89 89 88 87 88 99 88 88 86 89 89 99 88 99 89 88 a7 98 98 89 78 98 97 98 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0179 CMD>  [36] 24 1b 83 4c 97 98 88 88 98 87 88 89 88 98 98 88 89 88 88 98 78 87 88 88 88 78 89 78 87 99 89 78 88 98 78 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0244 CMD>  [36] 24 1b 83 6c 89 99 79 78 97 88 98 89 76 86 78 99 88 88 89 88 68 98 98 88 99 88 88 78 88 88 88 78 89 88 89 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0310 CMD>  [6] 06 1b 83 8c 87 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0336 CMD>  [36] 24 1b 83 8e 88 99 79 89 98 99 88 99 a9 99 a9 89 a9 99 98 99 9a 99 a8 97 89 98 99 98 9a 88 89 99 9a 98 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0387 CMD>  [36] 24 1b 83 ae a9 99 98 89 88 99 98 9a 88 98 99 99 88 98 99 9a 98 89 99 a9 89 78 86 99 99 98 98 99 98 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0439 CMD>  [36] 24 1b 83 ce 99 89 98 89 98 98 88 99 99 98 98 88 99 98 99 97 88 89 98 9a 98 88 98 88 8a 98 88 99 98 99 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0504 CMD>  [36] 24 1b 83 ee 87 98 89 68 88 88 98 89 98 97 78 88 78 98 89 99 8a 98 98 88 98 98 98 98 87 89 79 a8 89 88 89 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0565 CMD>  [6] 06 1b 84 0e 79 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0591 CMD>  [36] 24 1b 84 10 88 96 99 98 99 99 99 8a 99 89 99 9a 98 a9 99 98 99 98 a8 98 99 89 99 89 9b 99 99 99 9a 99 8a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0655 CMD>  [36] 24 1b 84 30 9a 89 9a 9a 99 89 98 99 99 a9 98 a9 99 89 89 99 8a 99 a8 99 a8 89 88 9a a9 99 89 98 88 78 98 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0717 CMD>  [36] 24 1b 84 50 99 98 89 89 78 89 88 8a 98 89 88 aa 98 88 88 88 99 88 88 99 99 99 88 98 99 89 99 89 a8 89 97 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0769 CMD>  [36] 24 1b 84 70 89 88 8b 88 98 99 99 89 98 88 88 8a 89 98 a8 a8 88 89 88 88 89 89 89 9a 88 99 88 97 98 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0831 CMD>  [6] 06 1b 84 90 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0855 CMD>  [36] 24 1b 84 92 99 88 89 99 98 88 98 99 9a 99 99 a9 a9 9a 99 99 89 99 9a aa 9a 98 99 99 a9 99 98 a9 a9 89 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0908 CMD>  [36] 24 1b 84 b2 a8 a9 89 89 a9 88 99 8a a9 89 a9 9a 9a 98 9a 98 99 88 99 a8 8a a9 89 89 8a 97 89 99 99 99 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.0960 CMD>  [36] 24 1b 84 d2 99 99 97 99 89 99 98 89 89 9a 89 88 a8 98 89 99 98 98 88 99 99 88 89 99 98 99 98 9a a9 98 88 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1024 CMD>  [36] 24 1b 84 f2 89 99 89 8a 88 99 89 9a 89 88 98 89 89 89 88 a9 9a 98 aa 88 88 99 99 89 98 9a 98 98 89 98 99 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1087 CMD>  [6] 06 1b 85 12 86 97
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1114 CMD>  [36] 24 1b 85 14 79 98 aa 99 99 a8 89 9a aa 9a 9a a8 99 99 9b 99 aa 99 a9 aa aa a9 89 9a 99 a9 89 99 aa aa aa 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1178 CMD>  [36] 24 1b 85 34 99 b8 a9 89 89 89 a9 99 99 9a 98 99 99 89 aa aa 89 99 9a b9 99 99 99 a9 a9 99 9a 98 99 8a 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1230 CMD>  [36] 24 1b 85 54 a9 99 99 89 98 98 aa 89 98 a9 99 99 89 89 aa 99 89 98 99 99 99 9a 88 98 a9 9a 9a a8 89 99 89 aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1294 CMD>  [36] 24 1b 85 74 89 a9 89 89 8a 88 9a 89 99 99 98 8a 88 98 89 9a aa 89 99 99 9a 99 88 a9 9a 88 98 99 9a 88 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1359 CMD>  [6] 06 1b 85 94 77 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1386 CMD>  [36] 24 1b 85 96 78 99 aa 89 99 99 98 9a a9 a9 aa 9a a9 9a aa ba aa 9a a9 b9 ba a9 99 8a aa 99 9a 9a aa aa 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1456 CMD>  [36] 24 1b 85 b6 ba aa 9a 8a 9a 89 98 aa a9 99 89 aa 9a a9 9a a9 99 aa 99 a9 99 a9 8a aa 9a 9a a9 98 99 a9 aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1518 CMD>  [36] 24 1b 85 d6 99 98 a9 a9 99 a9 89 9a 99 a9 8a 99 99 9a a9 9a 99 89 99 99 99 89 88 99 a9 a9 89 99 99 99 89 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1570 CMD>  [36] 24 1b 85 f6 ba 99 99 9a 99 99 99 99 98 89 98 aa 9a a8 99 a9 9a 99 99 98 99 8a a9 aa a8 a9 99 99 a9 89 a9 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1634 CMD>  [6] 06 1b 86 16 99 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1660 CMD>  [36] 24 1b 86 18 78 a8 aa aa a8 99 a8 8a 9a a9 9a 8a aa a8 8a 9b aa aa aa a9 a9 9b 98 99 ab 99 a9 aa a9 9a 9a a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1724 CMD>  [36] 24 1b 86 38 9b a9 aa a9 9a 9a 9a 9a aa a9 aa aa 98 a9 ab a9 99 aa aa aa 9a 99 99 9a aa 99 8a ba a9 99 9a 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1787 CMD>  [36] 24 1b 86 58 9a aa 9a 99 a9 9a a9 a9 8a aa aa 89 a9 aa aa 99 99 9a 9a a8 9a 9a 8a a9 99 99 a9 a9 9a a9 89 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1838 CMD>  [36] 24 1b 86 78 9a a9 8a 8a 99 9b 89 aa 9a 9a 98 99 9a a8 a9 9a a9 9a aa 89 9a 99 98 99 98 a9 a9 89 9b 99 9a a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1889 CMD>  [6] 06 1b 86 98 8a 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1915 CMD>  [36] 24 1b 86 9a 78 98 99 8a 9a 99 aa 98 99 8a ba aa 99 99 ba a9 aa 9a 9a a9 a9 9a 99 9a a8 a9 9a 89 99 9a aa 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.1967 CMD>  [36] 24 1b 86 ba aa 98 aa 89 a9 99 a9 99 99 a8 a9 aa 9a 99 a9 a9 99 9a a9 aa 89 89 89 99 a9 aa aa aa 99 98 8b 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2032 CMD>  [36] 24 1b 86 da aa a8 9a 99 99 99 9a 99 9a 9a 98 99 99 99 a9 a8 89 88 a7 a9 99 9a 9a 99 99 aa 99 88 a9 99 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2083 CMD>  [36] 24 1b 86 fa 99 a9 aa 8a a9 99 99 89 89 99 99 89 9a 99 a9 a9 99 99 99 98 aa a9 99 89 99 98 9a 9a 99 88 98 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2148 CMD>  [6] 06 1b 87 1a 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2175 CMD>  [36] 24 1b 87 1c 89 89 ab 99 8a 99 98 aa a9 8a b9 aa 9a 9a aa ba ab 9b a9 b9 99 aa aa 9a ba 8b 9a a9 aa 9a 9a a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2240 CMD>  [36] 24 1b 87 3c ba 9a a9 aa 89 a9 9a aa aa a9 9a ba 9a aa 9a 9a 9a ab 9a b9 99 aa a8 aa aa a9 89 9a 79 aa 9a 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2304 CMD>  [36] 24 1b 87 5c aa b8 9a aa a9 9a 99 aa a9 9a 8a 99 99 9a 9a a9 99 99 99 99 aa 9a 98 99 99 aa 88 a9 9b 9a a9 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2369 CMD>  [36] 24 1b 87 7c 9a aa aa 9a 9a 88 a9 8a 89 aa 99 99 9a a9 9a 98 99 aa a8 a9 8a 99 9a 9a 99 aa 9a a8 9a 89 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2430 CMD>  [6] 06 1b 87 9c 89 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2467 CMD>  [36] 24 1b 87 9e 89 99 a9 9a a9 8a aa a9 aa 99 aa aa aa aa aa 9a 99 99 a9 aa a9 aa 9a aa 9a aa aa a7 aa aa 9a 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2518 CMD>  [36] 24 1b 87 be 8a aa aa a9 aa aa aa aa a9 a9 9a aa a8 99 9a a9 99 99 9a aa a9 89 8a ba 9b aa 99 a9 9a 9a a9 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2570 CMD>  [36] 24 1b 87 de aa aa 9a 9a a9 a9 99 a9 9a aa 99 99 a8 aa aa a9 aa 99 b9 a9 99 99 a9 99 98 a9 99 98 aa 9a 9a a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2635 CMD>  [36] 24 1b 87 fe 99 aa 9a 89 b8 89 a9 a9 99 89 99 a9 a9 98 99 a9 8a 89 a9 9a a9 9a 8a a9 98 9a 99 a9 9a 99 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2687 CMD>  [6] 06 1b 88 1e 98 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2713 CMD>  [36] 24 1b 88 20 89 9a 9a 99 8a b8 a8 9a a9 a9 ba 99 9a a8 b9 aa 99 a9 ba 99 9a aa aa a9 9a ab ab a9 aa aa aa 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2764 CMD>  [36] 24 1b 88 40 aa ab a9 8a aa 99 aa 9a ab a9 99 aa 9a a9 99 aa 89 9b a9 9a 9a aa 9a aa 9a 99 9a a9 a9 a9 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2830 CMD>  [36] 24 1b 88 60 9a 99 99 99 89 ba 99 9a 99 a9 aa a8 9a 99 aa 98 99 98 a8 aa 9a 8a 99 98 a8 9a 9a a9 9a aa 99 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2881 CMD>  [36] 24 1b 88 80 99 a9 99 a9 99 88 8a 9a 9a 8a 89 a8 9a a8 89 aa aa 99 aa 98 9a 98 a9 9a 99 99 8a 99 99 a9 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2945 CMD>  [6] 06 1b 88 a0 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.2972 CMD>  [36] 24 1b 88 a2 89 89 9a 9a ba a9 99 99 aa aa a9 ab 99 a9 aa b9 99 aa ba 9b aa aa 9a a9 a8 a9 a9 a8 aa 99 8a 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3036 CMD>  [36] 24 1b 88 c2 aa a9 aa 9a a9 9a a9 aa a9 aa aa 9a 9a aa a9 9a 99 9a a9 9a 9a a9 ab a8 8a 89 99 9a 9a 9a 9a a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3100 CMD>  [36] 24 1b 88 e2 a9 a9 ab 99 8a a9 aa 89 89 ab a9 9a a9 89 aa 98 aa 9a 9a 9a 9a a9 98 99 9a aa aa aa 99 9a a9 aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3153 CMD>  [36] 24 1b 89 02 9a a9 9a 9a 99 a9 9a 9a 99 9a a9 aa ab a9 a9 a9 8a 8a aa a9 aa 89 9a ba 89 89 98 a9 99 98 9a a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3216 CMD>  [6] 06 1b 89 22 99 96
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3242 CMD>  [36] 24 1b 89 24 88 aa b9 aa 89 9a 89 aa a9 9a aa ba 89 aa aa 89 9a aa 8a 9a aa aa 9a 89 99 aa 9a 99 ab aa aa 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3308 CMD>  [36] 24 1b 89 44 aa aa 8a aa 89 98 99 ab b9 9a a9 9a a9 a8 9a aa 99 aa 98 ab aa ba 9a 99 89 a9 99 99 a9 a9 aa a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3359 CMD>  [36] 24 1b 89 64 8a aa 9a aa a9 99 aa ab aa 9a 88 99 9a ba 9a a9 99 99 99 9a 8a ba a9 99 99 aa 98 aa 9a a9 99 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3421 CMD>  [36] 24 1b 89 84 9a a9 aa 9a a9 99 99 9a 9a a9 a9 aa 8a 99 a9 a9 aa 99 99 aa 9b 99 9a a9 99 a8 99 a9 89 98 89 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3472 CMD>  [6] 06 1b 89 a4 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3499 CMD>  [36] 24 1b 89 a6 89 a8 aa 8b a9 9a 9a aa 9a aa 9a aa a9 aa aa a9 aa 9a ba 9b 9a aa 9a ba aa a9 a8 99 9a aa a9 8a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3551 CMD>  [36] 24 1b 89 c6 aa aa 99 aa aa a8 aa bb 9a aa a9 9a 99 99 aa ba 9a ba aa 9b 9a 9a 9a aa 99 89 8a b8 99 a9 99 aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3603 CMD>  [36] 24 1b 89 e6 ba ba aa aa 99 9a 99 99 a9 b9 a9 99 9a 89 9b 89 9a a8 a8 9a 9b 9a 99 a8 a9 9a 9a 9a a9 ab 8a 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3667 CMD>  [36] 24 1b 8a 06 a9 aa a9 aa a9 99 aa 8a a9 9a a9 99 99 a8 99 98 a9 aa 99 a9 a9 a9 a9 aa 98 aa 9a 89 a8 98 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3719 CMD>  [6] 06 1b 8a 26 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3745 CMD>  [36] 24 1b 8a 28 99 99 9a 9a 99 8a aa aa aa b9 9a a8 aa a9 99 b9 aa 98 a9 9a ba b9 99 a9 aa 9b 9a 99 9a 9a 9a a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3797 CMD>  [36] 24 1b 8a 48 aa a9 9a 99 a9 89 99 9a 99 9a 9a aa 9a a9 ab aa a9 aa 99 aa 8a 99 89 98 aa aa aa ba a9 9a a9 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3862 CMD>  [36] 24 1b 8a 68 ab 99 89 a9 99 a9 99 99 98 a9 aa a9 9a 9b 99 a9 9a a9 a9 a9 aa ab 99 aa aa 9a 89 a9 a9 9a 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3914 CMD>  [36] 24 1b 8a 88 a9 9a 98 99 99 aa 99 99 98 9a 98 9a 98 8a a9 a9 9a a9 a9 a9 9a 88 99 a9 9a 9a 9a 9a 98 98 8a a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.3977 CMD>  [6] 06 1b 8a a8 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4003 CMD>  [36] 24 1b 8a aa 89 a9 aa 97 aa 99 99 aa a8 9a aa 9a 9a ba 8a 99 aa 9a b9 9b aa aa aa a9 aa 99 a9 aa ab ba 9a 9b
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4055 CMD>  [36] 24 1b 8a ca aa b9 9a 89 9a aa a9 ab a9 a9 aa b9 9a 99 ab a9 aa aa 99 a9 ab 99 99 a9 a9 aa 99 9a 9a 98 aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4119 CMD>  [36] 24 1b 8a ea aa 9a 9a 89 a9 99 98 9a aa aa 99 98 98 9a a9 a9 a9 8a 98 aa 99 99 89 99 aa aa 98 a9 9a 89 8a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4170 CMD>  [36] 24 1b 8b 0a a9 9a 99 99 99 98 99 9a aa a9 99 99 a9 99 9a 89 8a 9a a9 99 89 a9 a8 aa 98 9a 99 99 99 89 99 8a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4221 CMD>  [6] 06 1b 8b 2a a8 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4248 CMD>  [36] 24 1b 8b 2c 88 98 9a 8a aa 9a aa aa bb 9a aa 9a a9 ba 9a aa aa 9a ab aa a9 ab 9a 99 ba 9a 9a aa aa a9 9b aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4313 CMD>  [36] 24 1b 8b 4c ba a9 9a aa a9 ab aa 9a b9 a9 aa 99 89 ba aa ab aa ba 99 aa 99 89 a9 9a a9 aa 89 9a a9 89 aa 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4376 CMD>  [36] 24 1b 8b 6c aa a9 8a 99 a9 a9 99 ab a9 b9 99 9a 9a a8 98 a9 aa 9a 98 9a ba 99 a9 8a 99 a9 98 9a 9a aa 99 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4427 CMD>  [36] 24 1b 8b 8c aa a9 89 9a a9 a8 99 99 99 aa 99 9b aa aa a9 aa 9a a9 a9 9a aa 99 88 98 a9 98 a9 a8 a9 ab 9a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4492 CMD>  [6] 06 1b 8b ac 89 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4518 CMD>  [36] 24 1b 8b ae 79 89 ab 8a a9 8a 8a a9 a9 99 9a ab a9 9a aa aa 9a 99 ba 9b 99 9a 9a 9b aa a9 a9 aa a9 ba 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4583 CMD>  [36] 24 1b 8b ce aa a9 9a 8a aa a9 99 9a a8 a8 8a b9 99 a8 a9 9b 9a 99 aa ab 99 9a 9a 9b 89 a9 9a aa aa 8a aa 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4634 CMD>  [36] 24 1b 8b ee 99 99 8a 99 9a aa a9 a9 99 9a 8a 8a a8 99 a9 98 9a 89 a9 99 a8 b9 89 a9 a9 a8 99 a9 aa ba 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4699 CMD>  [36] 24 1b 8c 0e a9 a8 9a 89 a9 88 9a 99 a9 99 98 9a a9 a9 8a a9 99 99 99 99 99 99 99 99 89 99 9a 99 99 98 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4750 CMD>  [6] 06 1b 8c 2e 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4777 CMD>  [36] 24 1b 8c 30 88 98 9a 89 9a a8 99 9a aa a9 9a 9a a9 b8 99 a9 a9 a9 99 aa 9a 9a 9a aa ab a9 ab 99 aa 9a 89 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4840 CMD>  [36] 24 1b 8c 50 aa b9 a9 9a aa 98 a9 ab aa a8 aa aa 9a aa ba aa aa a9 98 aa 99 99 9a a9 bb aa 9a aa a9 99 9b a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4892 CMD>  [36] 24 1b 8c 70 ab 9a 99 99 9a a9 8a 9a a8 ba a9 99 9a aa aa 99 98 a9 8a 9a a9 99 a9 a9 9a a9 89 9a bb a9 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.4957 CMD>  [36] 24 1b 8c 90 aa a9 aa aa aa aa 98 9a a9 99 aa ba aa 98 a9 a9 a9 89 99 89 a9 9a 99 99 99 a9 98 a9 99 a9 a9 8a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5009 CMD>  [6] 06 1b 8c b0 88 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5035 CMD>  [36] 24 1b 8c b2 89 88 a9 a9 a9 8a 99 a9 98 aa ab 8a 9a 98 aa 9a aa 9a a9 aa aa 9b aa 99 9a 9a 99 9a aa 99 a9 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5087 CMD>  [36] 24 1b 8c d2 99 aa aa 9a 8a 9a 9a 8a a9 a9 aa 9a 9a 99 aa b9 a9 b9 a9 aa 89 9a 99 9a a9 98 88 9a aa 9a 9a aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5139 CMD>  [36] 24 1b 8c f2 a9 99 99 89 99 9a 99 a9 a9 b8 99 9a 99 a9 a8 98 aa 9a aa 99 99 99 99 99 9a aa 9a 89 99 99 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5204 CMD>  [36] 24 1b 8d 12 98 aa 99 9a 98 a9 99 99 a9 89 a9 aa 99 9a 9a 9a aa 9a 99 a9 a9 a9 98 a9 89 99 8a a9 99 98 88 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5255 CMD>  [6] 06 1b 8d 32 98 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5285 CMD>  [36] 24 1b 8d 34 89 99 8b 99 98 98 a9 9b 9a b9 ba ba 9a a9 aa a8 aa 9a aa aa a9 aa aa 99 99 aa ab aa a9 aa a9 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5347 CMD>  [36] 24 1b 8d 54 99 ab aa 9a ba 99 aa aa 9a 89 aa aa 89 aa 9a aa aa aa aa b9 88 a9 9a a9 a8 99 8a a9 a9 a9 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5412 CMD>  [36] 24 1b 8d 74 a9 a9 a8 a9 99 9a 99 9a 98 a9 99 9a 9a aa aa a9 9a 99 9a a8 9b a9 9a 98 99 aa 9a a9 aa b9 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5478 CMD>  [36] 24 1b 8d 94 9a 99 9a 99 99 99 99 99 99 98 89 a9 89 a9 a9 99 a9 99 b9 a9 89 9a a9 b8 99 9a a8 9a 99 9a 9a 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5530 CMD>  [6] 06 1b 8d b4 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5556 CMD>  [36] 24 1b 8d b6 8a 89 9a 88 a8 a9 99 a9 aa aa 89 aa ba aa b8 a9 99 99 aa a9 aa ba aa a9 9a 9a aa a9 9b 9a aa a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5607 CMD>  [36] 24 1b 8d d6 aa aa a9 88 9a 9a 99 aa aa aa 9a aa 9a a9 99 a9 a9 aa a9 9a 9a 9a a9 99 a8 99 88 99 9a 99 aa 8a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5673 CMD>  [36] 24 1b 8d f6 9a a9 ab 9a 99 9a 99 99 99 a9 99 99 9a 99 aa 98 88 99 9a 9a 99 99 98 99 99 99 98 9a 99 aa 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5723 CMD>  [36] 24 1b 8e 16 a9 9a 99 99 99 98 99 8a 99 99 99 9a a9 98 aa 99 9a 7a a9 89 8b 8a 99 a9 99 89 98 99 89 99 98 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5788 CMD>  [6] 06 1b 8e 36 98 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5811 CMD>  [36] 24 1b 8e 38 78 99 9b 9a 98 99 89 99 8b 9a a9 aa aa a9 ab 89 9a 9a a9 8a 99 9a 89 a9 aa 89 aa b8 a8 89 a9 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5876 CMD>  [36] 24 1b 8e 58 aa a9 aa 9a aa 9a ba 9a 9a aa 9a aa 89 99 aa aa 8a 99 98 9a aa aa a9 a9 99 aa 8a aa 98 99 aa 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5927 CMD>  [36] 24 1b 8e 78 aa 99 9a 99 88 a9 99 a9 99 a9 aa 9a a9 a9 9a a8 99 99 99 a8 89 99 aa 89 9a 8a 8a 99 ab a9 9a a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.5991 CMD>  [36] 24 1b 8e 98 99 a9 9a 8a aa 98 8a 9a a9 8a 99 ab 99 8a 9a 9a 89 9a a9 99 99 9a 8a a9 a8 99 aa a9 99 88 9a 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6043 CMD>  [6] 06 1b 8e b8 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6070 CMD>  [36] 24 1b 8e ba 98 99 aa 99 98 8a 99 99 ab 9a ba aa aa aa aa b8 ba ba aa 99 a9 aa 9a b9 9a 9a aa aa ba a9 aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6123 CMD>  [36] 24 1b 8e da ba ab a9 9a 99 a9 aa a9 aa 8a a9 aa 99 a9 aa 99 9b 9a 8a b9 9a aa 99 a9 aa aa 8a a9 9a ba ba 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6175 CMD>  [36] 24 1b 8e fa 99 aa 9a 89 aa 9b a9 aa 89 ba a9 98 99 aa aa 89 9a 99 a9 9a 99 9a 99 99 b9 99 a8 aa aa 9b 99 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6239 CMD>  [36] 24 1b 8f 1a a9 ab a9 99 a9 aa a9 aa aa b9 aa a9 9a aa aa a9 9b 99 98 a9 9a 9a aa ba 89 9a 99 89 99 89 9a 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6304 CMD>  [6] 06 1b 8f 3a 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6330 CMD>  [36] 24 1b 8f 3c 88 98 a9 99 99 99 9a 99 9a a9 99 99 99 9a ba aa 9a 99 ba aa a9 a9 ba a9 aa aa 9a a9 a9 a9 ab 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6394 CMD>  [36] 24 1b 8f 5c 8a ba ab 98 9a a9 aa a9 aa a9 a8 aa 99 a9 9a aa 8a aa a9 ba 9a ab aa 99 aa aa 9a 9a 99 9a ab a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6448 CMD>  [36] 24 1b 8f 7c aa a9 aa 8a 99 a8 99 9a aa aa a9 89 aa a9 a9 9a 9a 8a a9 a9 8a a9 aa 9a 98 99 89 a9 a9 99 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6511 CMD>  [36] 24 1b 8f 9c 98 99 a8 99 9a a9 99 9a 9a a9 99 a9 99 a9 b9 99 9a a9 89 89 9a 8a a9 99 8a 8a aa a9 8a 98 a9 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6563 CMD>  [6] 06 1b 8f bc 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6589 CMD>  [36] 24 1b 8f be 89 98 b9 89 9a 99 99 7a a7 aa 99 a9 aa a9 99 a8 ab a9 b9 9a 9a aa 89 a9 9a ab aa 99 9a 99 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6641 CMD>  [36] 24 1b 8f de ba aa 9a 9a 99 ab aa a9 ab 99 b9 9a 99 99 9a a9 99 aa aa aa aa aa 99 a9 9a 9a 99 99 8a a9 aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6705 CMD>  [36] 24 1b 8f fe a9 a9 a9 aa 99 8a 99 99 aa a8 99 aa a9 9a 99 99 99 99 aa 89 9a 9a aa 99 99 99 99 b9 aa a9 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6754 CMD>  [36] 24 1b 90 1e 9a 99 aa 9a 99 98 99 a9 a9 a8 99 9a 89 a9 89 9b a9 9a 99 9a 9a 99 98 aa 9a 9a 99 8a 9a a9 9a a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6808 CMD>  [6] 06 1b 90 3e 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6833 CMD>  [36] 24 1b 90 40 98 88 99 9a 89 9a 9a aa 9a 98 ba aa ba ba a8 aa aa 9a 89 99 9a 99 aa aa ab aa ab a9 aa aa 88 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6895 CMD>  [36] 24 1b 90 60 a8 aa 9a 9a a9 9a aa aa 9a aa aa aa 89 a9 99 aa 98 99 aa aa aa 9a 8b aa a9 ba 99 a9 8a 99 aa 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.6949 CMD>  [36] 24 1b 90 80 9a 9a 9a 9a aa 99 a9 a9 aa a8 aa 99 9a aa 99 8b 9a 9a b8 aa 9a aa aa 96 99 9a 88 a8 aa aa aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7012 CMD>  [36] 24 1b 90 a0 aa aa 99 88 89 9a 8a aa 98 a9 89 99 9a 9a 9a 97 99 98 a9 99 8a aa 99 a8 aa aa aa a8 aa 9a 9a aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7076 CMD>  [6] 06 1b 90 c0 87 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7103 CMD>  [36] 24 1b 90 c2 78 99 aa 98 aa 99 99 a9 98 9a aa 9b 8a 9a aa aa 9a aa 9a a9 9a 9a 9a 9a a9 a9 aa 99 a9 aa 9a 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7154 CMD>  [36] 24 1b 90 e2 9a aa 99 99 aa 8a a8 99 99 99 9a a9 89 ba ba 8a 99 99 aa aa 9a aa 9a a9 9a aa 89 98 a9 a9 ab 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7205 CMD>  [36] 24 1b 91 02 a9 aa 9a 9a 98 a9 98 9a 99 aa a9 8a 89 a8 89 9a 9a 98 aa 98 99 a9 99 a8 a9 9a 89 9a 9a 99 98 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7256 CMD>  [36] 24 1b 91 22 99 99 9a 9a a9 99 a8 99 99 99 99 9a 9a 99 99 99 98 99 99 98 a9 9a 89 aa 89 99 99 a9 98 88 9b a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7307 CMD>  [6] 06 1b 91 42 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7333 CMD>  [36] 24 1b 91 44 89 99 b9 97 89 89 a9 aa 9a a9 aa ab aa 8a a8 99 aa a8 ba 99 9b a9 99 aa 99 9a 99 a9 9a a8 9a a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7398 CMD>  [36] 24 1b 91 64 aa aa aa a9 9a 98 aa ba a9 aa 99 9a 99 99 aa ab 89 aa 99 aa a9 ab a9 99 8a 9a a9 a8 9a 9a aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7449 CMD>  [36] 24 1b 91 84 b9 aa 99 99 a9 a9 99 9a aa 99 a9 9a aa ba 99 a8 ab 8a aa 88 99 9a 99 9b 9a aa 9a 99 a9 9a 99 aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7514 CMD>  [36] 24 1b 91 a4 aa aa 89 89 98 a9 99 a8 a9 a8 a9 99 99 a8 9a 98 98 99 ab aa 9a aa 89 9a 89 89 89 88 8a 9a 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7567 CMD>  [6] 06 1b 91 c4 87 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7593 CMD>  [36] 24 1b 91 c6 8a 96 aa 99 a9 a9 99 aa aa a9 99 aa aa a9 aa aa aa 9a 99 9a ba aa 99 9a ab 9a aa 98 ba a9 ab 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7645 CMD>  [36] 24 1b 91 e6 ca a9 a9 a9 aa a9 a8 aa 8a 98 9a aa 9a 99 99 99 aa 99 99 9a aa 8a 99 9a a9 99 99 a8 a8 8a 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7696 CMD>  [36] 24 1b 92 06 9a 9a a8 9b 99 9a 98 9a aa aa a9 9a 9a 99 99 99 aa 99 aa 99 98 99 8a a9 98 99 99 aa 99 99 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7760 CMD>  [36] 24 1b 92 26 99 aa aa 98 b9 99 a8 aa a9 a8 99 aa 89 99 89 a9 99 9a 99 99 99 9a 98 8a 9a 99 9a 9a a9 99 8a 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7826 CMD>  [6] 06 1b 92 46 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7850 CMD>  [36] 24 1b 92 48 89 a9 a9 8a a8 98 9a 9a aa 9a aa a9 aa ab aa aa ab 99 a8 ab 9a 99 9a aa ba a9 aa 99 9a aa aa 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7902 CMD>  [36] 24 1b 92 68 9a aa ab a9 9a aa aa aa 9a a9 aa 9a aa aa 9a aa aa 89 aa a7 99 a9 aa aa aa 99 8a aa 9a a9 ba 8a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.7955 CMD>  [36] 24 1b 92 88 9b a9 a9 9a 9a a8 99 9b aa a9 a9 aa a9 89 99 89 99 9a aa 99 aa 99 99 99 9a 99 8a aa 99 9b 99 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8019 CMD>  [36] 24 1b 92 a8 ab aa a9 99 99 9a a9 9a 9a aa 99 8b b8 99 99 99 a9 9a 9a 99 9a aa 99 9a aa 9a 99 9a a9 aa 99 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8070 CMD>  [6] 06 1b 92 c8 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8096 CMD>  [36] 24 1b 92 ca 89 98 aa 89 9a 98 89 aa 99 a9 98 99 99 89 9a 8a 8a 98 a9 9a 9a aa 9a 99 aa a9 aa 99 a9 9a 89 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8160 CMD>  [36] 24 1b 92 ea ba a9 9a aa aa aa 8a aa 9a 99 8a aa 9b a9 9a 99 98 a9 9a 9a 99 9a aa aa 99 9a 99 9a 99 98 89 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8223 CMD>  [36] 24 1b 93 0a 99 9a 9a 9a 89 99 99 a9 99 99 a9 8a aa 99 98 98 a9 99 99 9a 8a 97 89 9a 98 a8 98 a9 9a aa 8a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8276 CMD>  [36] 24 1b 93 2a 98 a9 98 8a 99 9a 98 89 89 99 aa ab 99 99 9a 99 b9 98 89 99 8a 88 99 a9 a8 98 9a 89 8a 89 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8328 CMD>  [6] 06 1b 93 4a 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8354 CMD>  [36] 24 1b 93 4c 88 98 9a a9 98 99 99 89 99 aa aa b9 a9 a9 99 aa aa 99 ba b8 9a aa a9 98 9b aa 89 99 a9 98 98 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8406 CMD>  [36] 24 1b 93 6c a9 aa 9a 8a a9 a9 99 99 a9 99 99 aa 99 aa 99 aa 99 aa 99 aa 9a aa a9 9a 99 9a 88 a9 99 aa 99 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8472 CMD>  [36] 24 1b 93 8c aa a8 8a 99 99 99 9a 98 9a 9a a8 9a 9a a9 99 aa 89 aa 99 aa 9a 99 99 9a 99 99 8a a9 aa a9 88 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8536 CMD>  [36] 24 1b 93 ac aa a9 98 89 a9 99 8a aa 99 aa 99 99 99 a9 97 99 98 99 a9 9a ba 8a 99 aa a8 a9 99 a9 aa 99 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8587 CMD>  [6] 06 1b 93 cc 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8614 CMD>  [36] 24 1b 93 ce 88 98 aa aa 99 a8 9a 89 a8 a8 9a aa a8 a9 9a aa 99 aa b9 aa 9a aa aa aa aa aa 98 9a aa a8 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8679 CMD>  [36] 24 1b 93 ee 9a a9 a9 9a 9a 99 99 a9 99 a9 aa aa 99 a8 9a ba 9a 89 99 a9 99 a9 9a a9 99 9a 8a 8a 9a 99 8b a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8730 CMD>  [36] 24 1b 94 0e b9 aa ab 89 9a a9 99 9a a9 aa 88 99 99 a9 99 a8 ab 99 98 99 98 8a 98 99 99 aa 8a 99 a9 a8 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8793 CMD>  [36] 24 1b 94 2e 99 a9 99 89 99 99 89 99 99 99 a9 99 8a a9 9a a9 9a 89 8a aa a9 98 88 a9 a9 a9 89 99 89 88 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8846 CMD>  [6] 06 1b 94 4e 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8872 CMD>  [36] 24 1b 94 50 88 88 aa 89 a7 89 9a 89 9a 99 99 a9 99 aa 99 a9 aa 99 a9 9a 99 9b 98 a9 aa aa 8a a9 aa 89 aa 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8924 CMD>  [36] 24 1b 94 70 b9 a9 aa 9a aa 8a 8a aa 9a 98 9a 99 99 9a 9a 9a 9a 89 98 a9 99 99 99 a9 9a 9a 98 aa 9a 99 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.8976 CMD>  [36] 24 1b 94 90 aa 99 98 88 99 9a 89 aa a8 a9 99 99 9a a9 aa 89 99 9a 88 99 97 9a 99 99 9a aa 88 a9 a9 aa 89 8a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9041 CMD>  [36] 24 1b 94 b0 a8 98 aa 99 89 99 a9 9a 99 88 98 a9 9a 99 99 aa 9a 9a 98 a8 a9 89 98 b9 99 9a 89 98 99 99 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9093 CMD>  [6] 06 1b 94 d0 98 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9119 CMD>  [36] 24 1b 94 d2 78 99 9a 99 ab 99 99 9a 89 a9 9a a9 aa a9 99 99 aa aa a9 a9 aa 8a 9a 99 aa ba 9a a9 9a aa 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9171 CMD>  [36] 24 1b 94 f2 bb a9 9a a9 aa 98 a9 ab 99 99 a9 a9 99 aa 98 8a aa 99 a9 aa 99 9a 9a b9 a9 9a 8a aa 8a 98 ab 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9234 CMD>  [36] 24 1b 95 12 aa 99 99 99 99 99 99 8a 9a 99 8a a9 a9 99 aa 99 88 99 a8 99 99 99 89 88 9a aa 98 b8 aa 99 7a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9302 CMD>  [36] 24 1b 95 32 9a a9 99 89 99 99 a8 98 89 a8 98 99 9a 99 aa aa 98 99 aa 99 a9 99 aa 98 87 a9 99 99 9a 8a 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9353 CMD>  [6] 06 1b 95 52 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9379 CMD>  [36] 24 1b 95 54 88 98 aa 99 99 99 99 89 a9 ab 89 99 9a 98 9a a9 89 8a 9a 99 a8 a9 9a 9a aa 99 9a 99 ab a9 8b a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9431 CMD>  [36] 24 1b 95 74 9a ba a9 9a a9 99 99 ab 9a a9 a9 9a 88 9a aa b9 a8 99 aa ba a9 8a 99 99 9a 99 99 98 9a a9 9a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9483 CMD>  [36] 24 1b 95 94 9a a9 a9 9a 99 99 a9 a9 ab 8b 99 99 9a 9a aa 99 99 99 9a 89 99 8b a9 98 99 9a 99 a9 aa 99 aa a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9535 CMD>  [36] 24 1b 95 b4 a9 99 9a 89 99 9a 88 9a 89 99 78 aa a9 99 99 99 99 a9 a9 99 9a 88 99 99 99 99 8a 98 8a 89 a9 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9586 CMD>  [6] 06 1b 95 d4 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9613 CMD>  [36] 24 1b 95 d6 79 99 aa 99 99 a9 98 89 aa aa aa a9 ab aa a9 9a 9a a9 b9 a9 aa 9a a9 aa aa 9a aa 99 9a 9a ab 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9676 CMD>  [36] 24 1b 95 f6 aa a9 aa a9 8a a9 9a aa 99 9a 9a 9a 99 aa ba a9 a9 a9 9a aa 9a ab a9 a9 a9 9b 8a a9 9a aa a9 aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9738 CMD>  [36] 24 1b 96 16 99 a9 9b 9a a7 99 99 a9 a9 a9 99 a9 99 a9 b9 99 9a 99 a9 99 99 aa 9a a9 99 aa 9a aa aa a9 8a a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9803 CMD>  [36] 24 1b 96 36 a8 a9 8a 8a 9a a9 9a 99 99 a8 a9 a9 99 a8 a9 9a 99 99 99 89 9a 99 a8 a9 99 aa 99 a9 9a 89 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9855 CMD>  [6] 06 1b 96 56 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9880 CMD>  [36] 24 1b 96 58 79 88 9a aa 98 aa 9a a9 aa aa aa ba 9b 9b 9a a9 a9 89 b8 a9 9a aa a9 99 9a aa 99 aa a8 89 a9 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9933 CMD>  [36] 24 1b 96 78 ab b9 aa 98 a9 99 a9 99 a9 9a 99 8a 9a a8 aa 9a 8a 99 99 ba 9a 8a 9a a9 9a 9a 89 a9 99 aa 9b 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   2.9985 CMD>  [36] 24 1b 96 98 9a a9 9a 9a a9 a9 99 89 aa a9 97 99 aa a9 99 9a a8 99 9a 98 99 aa 99 89 98 a9 88 a9 aa a9 99 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0049 CMD>  [36] 24 1b 96 b8 99 99 99 9a 79 9a 89 9a 98 a9 b8 a8 9a a8 8a a9 9a 9a a9 99 99 89 a8 89 99 8a 98 88 89 98 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0101 CMD>  [6] 06 1b 96 d8 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0128 CMD>  [36] 24 1b 96 da 88 88 aa 89 b9 99 89 99 89 89 99 9a 89 a9 aa 9a 8a aa a8 aa a8 8a 8a a9 8a 9b 9a a9 99 ba a9 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0179 CMD>  [36] 24 1b 96 fa ba aa 99 9a 89 9a aa 9b 99 99 a9 99 98 99 ab aa 9a 88 98 9a ba 9a 9a aa 9a aa 99 99 98 a9 aa 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0243 CMD>  [36] 24 1b 97 1a a8 a9 9a 99 89 99 99 99 a8 a9 9a 7a 99 8a 99 98 a8 98 88 99 9a 99 89 aa a9 99 89 99 a9 9a 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0306 CMD>  [36] 24 1b 97 3a 89 9a 9a 89 99 a8 89 8a 98 89 a8 ab 9a 99 8a 98 99 98 99 8a 98 99 b8 99 99 99 89 a9 9a 99 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0357 CMD>  [6] 06 1b 97 5a 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0383 CMD>  [36] 24 1b 97 5c 99 89 aa a8 9a 98 99 aa 99 a9 aa 99 aa 9a a9 ab 8a aa a8 aa 9a 9a aa aa aa a9 9a a9 9a 99 9a a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0447 CMD>  [36] 24 1b 97 7c 9a aa 99 99 a9 a9 98 ab 9a a9 a8 9a aa 9a a9 aa 9a a9 aa aa 9a aa aa a8 9a 99 88 a8 99 a8 aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0498 CMD>  [36] 24 1b 97 9c aa a8 ba 98 89 a9 89 99 9a aa 99 9a 99 89 aa a9 a9 99 aa 99 9a a9 99 a9 9b 9a 99 99 9a a9 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0563 CMD>  [36] 24 1b 97 bc aa aa 8a 9a 98 98 9a 9a a9 a8 89 99 98 a8 a9 9a 9a a9 a8 99 9a aa aa 9a 99 9a 89 98 99 89 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0615 CMD>  [6] 06 1b 97 dc 98 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0641 CMD>  [36] 24 1b 97 de 79 88 9a 89 a9 9a 88 aa a9 a9 98 a9 9a a8 a9 99 aa 9a aa 9a a9 9a 99 99 9a a9 9a 99 ab 99 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0691 CMD>  [36] 24 1b 97 fe a9 a8 aa aa b9 9a aa 9a 8a 89 a9 9a 98 a9 99 a9 a9 9a 9a aa 99 a9 8a 99 9a 99 88 98 8a 99 aa 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0742 CMD>  [36] 24 1b 98 1e aa 99 89 89 99 99 99 9a 99 aa a8 98 9a 89 99 9a 99 99 89 99 99 9a 99 99 88 98 99 99 a9 a9 98 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0805 CMD>  [36] 24 1b 98 3e 99 a9 a8 88 99 98 99 98 98 99 89 a9 99 a8 a9 a9 89 99 a9 89 99 9a 99 aa 99 99 98 89 98 89 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0870 CMD>  [6] 06 1b 98 5e 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0896 CMD>  [36] 24 1b 98 60 89 98 ab 99 98 9a 9a a9 a9 a9 9a 98 aa aa 9a 99 9a b9 98 ba ba 9a 9b a9 a8 b9 9a a8 99 a9 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.0960 CMD>  [36] 24 1b 98 80 a9 9b 9a 9a a9 99 8a 9a 9a a9 a8 8a 99 99 9b aa 99 9a a8 9a aa 8b 99 99 aa a9 99 ab 89 9a 8a 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1012 CMD>  [36] 24 1b 98 a0 a8 89 a9 99 89 aa a9 aa a9 aa 99 8a 99 99 89 99 99 a9 99 89 a9 99 89 98 a8 98 89 9a 89 99 9a aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1076 CMD>  [36] 24 1b 98 c0 b9 a9 a9 89 99 9a a8 9a 98 9a a9 9a aa 8a 9a a9 89 9a a9 89 a9 aa a8 a9 8a a9 aa 99 99 99 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1138 CMD>  [6] 06 1b 98 e0 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1165 CMD>  [36] 24 1b 98 e2 88 89 aa 9a 99 88 89 a8 aa 99 9a 8a ba a8 a9 89 b8 99 99 a9 a9 a9 9a a9 aa a9 89 a9 aa b9 9a 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1216 CMD>  [36] 24 1b 99 02 a9 aa 99 99 99 88 aa ab 89 a9 98 89 8a a8 a9 9a 99 99 9a a9 99 9a 89 98 a9 99 98 9a 99 99 99 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1268 CMD>  [36] 24 1b 99 22 a8 98 8a 99 a9 98 8a 89 9a a9 a8 9a 9a 9a 9a 99 a8 8a a9 99 aa 9a 98 89 99 99 8a a8 a8 98 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1333 CMD>  [36] 24 1b 99 42 8a a8 99 89 99 9a 99 99 a9 89 88 a8 a9 99 99 99 9b a8 a9 99 aa 99 99 8a a9 8a 9a 98 a9 8a 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1384 CMD>  [6] 06 1b 99 62 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1411 CMD>  [36] 24 1b 99 64 89 98 aa 9a 98 98 99 89 99 99 aa a9 aa 99 8a 99 8a 9a a9 aa 99 89 78 a9 9b aa 9a a9 aa 99 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1477 CMD>  [36] 24 1b 99 84 a8 aa 8a aa 98 99 99 aa 9a aa 99 9a 89 a9 88 99 88 a8 89 99 aa 99 a9 a9 a8 99 8a 9a a9 a8 aa aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1538 CMD>  [36] 24 1b 99 a4 aa 8a 99 9b 8a a9 99 99 aa 89 89 99 9a 99 99 a9 a9 a9 98 89 9a a9 88 99 9a 89 99 99 8a a8 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1590 CMD>  [36] 24 1b 99 c4 9a a9 99 99 a9 88 9a 99 89 99 99 99 99 78 99 8b aa 89 9a 89 99 99 aa aa 99 99 79 89 9a 87 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1642 CMD>  [6] 06 1b 99 e4 88 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1668 CMD>  [36] 24 1b 99 e6 78 98 88 98 98 89 99 99 8a a9 98 ab 99 aa 8a 99 a9 89 a9 aa 9a 9b 99 99 99 a9 9a a9 aa aa 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1719 CMD>  [36] 24 1b 9a 06 9a 99 8a 9a 99 99 aa aa a9 98 a9 99 98 a9 a9 ab 8a 99 a9 9a aa a9 99 9a 99 99 8a 89 9a 99 88 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1784 CMD>  [36] 24 1b 9a 26 a9 89 98 89 a9 98 aa 99 9a b9 98 99 8a 98 aa 99 9a 99 98 9a 99 99 99 a8 99 a9 99 a9 99 8a 88 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1847 CMD>  [36] 24 1b 9a 46 9a 99 89 99 99 9a 89 9a 99 99 98 9a 98 a8 89 8a 98 88 98 8a 98 8a 99 a8 99 98 9a 89 a9 89 89 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1899 CMD>  [6] 06 1b 9a 66 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1925 CMD>  [36] 24 1b 9a 68 88 98 aa 99 88 89 99 a8 89 a9 98 9a a7 99 98 aa aa aa 8a 9a 9a aa 99 9a a9 aa 9a 99 aa 99 89 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.1977 CMD>  [36] 24 1b 9a 88 a9 9a 9a 99 9a 8a a9 9a 99 98 a9 9a a9 99 a9 a9 89 99 99 99 99 9a 9a a9 99 9a 99 9a 98 7a aa 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2042 CMD>  [36] 24 1b 9a a8 a9 a9 99 89 99 a9 99 9a a8 8a 99 98 89 99 9a 98 9a 87 a9 89 99 8a 99 9a 9a 89 89 99 aa a9 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2094 CMD>  [36] 24 1b 9a c8 99 99 9a 99 99 aa 88 a8 88 99 99 99 a9 89 99 aa 89 98 9a 99 99 99 99 a9 a9 99 99 98 99 99 8a a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2146 CMD>  [6] 06 1b 9a e8 88 a7
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2173 CMD>  [36] 24 1b 9a ea 88 89 a9 99 99 9a 89 99 aa a9 a9 aa a8 99 9a 99 9a 9a aa 99 89 99 98 9a 99 aa 9a a9 aa a9 aa a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2224 CMD>  [36] 24 1b 9b 0a 99 89 99 99 aa 99 99 a9 99 a9 9a 9b 99 89 a9 aa 9a 9a aa a9 88 a9 99 aa a9 9a a8 aa aa 99 8a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2289 CMD>  [36] 24 1b 9b 2a 99 a9 99 9a 99 89 99 aa aa 8a a9 a9 99 98 8a 9a 8a 98 99 89 89 89 78 99 a9 a9 8a aa aa 9a 89 8a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2351 CMD>  [36] 24 1b 9b 4a a9 99 99 99 89 99 aa a9 99 a9 98 99 99 88 a9 8a 8a 99 98 99 aa 99 9a a9 a8 a9 99 98 89 98 88 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2402 CMD>  [6] 06 1b 9b 6a 78 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2428 CMD>  [36] 24 1b 9b 6c 88 98 98 97 89 89 98 99 aa 99 a9 b8 9a 99 98 99 99 89 aa 99 99 9a 89 a9 98 a9 9a 99 aa 9a 89 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2481 CMD>  [36] 24 1b 9b 8c a8 9a aa 9a a9 99 98 9a 89 8a a9 99 98 99 a9 9a 99 99 9a aa 9a 99 89 a9 89 99 7a 99 99 98 aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2545 CMD>  [36] 24 1b 9b ac a9 99 a8 99 89 a9 99 aa aa a8 a8 99 99 9a 99 99 99 8a 99 99 89 89 89 a8 99 89 99 99 a9 a9 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2596 CMD>  [36] 24 1b 9b cc 98 89 aa 99 99 99 89 a8 89 99 8a 99 89 99 99 a9 9a 89 89 a8 89 89 8a 98 99 a9 8a 89 99 99 8a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2661 CMD>  [6] 06 1b 9b ec 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2688 CMD>  [36] 24 1b 9b ee 89 78 a9 89 98 99 8a a8 99 aa 9b 99 aa 99 9a a9 aa aa 89 98 a9 99 9a 98 a9 89 99 99 a9 a9 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2752 CMD>  [36] 24 1b 9c 0e b9 99 a9 88 99 98 a9 89 99 99 a9 a9 99 99 a9 a9 9a 89 aa aa a9 99 a8 aa 99 8a 97 aa 88 99 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2816 CMD>  [36] 24 1b 9c 2e aa 99 99 99 8a a8 89 9a 99 99 a8 88 89 8a aa 88 9a 89 8a aa 99 99 99 a9 98 89 88 99 8a 89 88 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2867 CMD>  [36] 24 1b 9c 4e 99 b9 aa 89 89 a8 99 aa 99 89 89 aa 9b 99 a8 99 aa 88 aa 98 9a 99 79 99 97 a9 89 99 88 99 89 8a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2933 CMD>  [6] 06 1b 9c 6e 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.2958 CMD>  [36] 24 1b 9c 70 79 89 aa 88 78 a8 99 a9 99 99 9a a9 9a aa 9a a8 9a a8 aa 99 a8 9a 99 a9 aa 99 9a b8 aa a9 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3022 CMD>  [36] 24 1b 9c 90 9a a9 b8 8a aa a8 ab aa 99 b9 9a a9 9a 9a a9 89 8a a9 aa 9a 9a ab 9a 99 99 9a aa a9 8a aa 99 8a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3074 CMD>  [36] 24 1b 9c b0 a9 aa a9 9a 9a 99 a9 99 99 a9 98 98 89 98 a9 98 a9 99 99 a8 98 98 89 99 99 9a 89 aa a9 aa 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3126 CMD>  [36] 24 1b 9c d0 a9 a9 8a 99 88 99 9a 99 99 a9 98 98 89 99 a9 99 88 a9 aa a9 99 99 99 98 89 88 9a 99 9a 99 a9 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3178 CMD>  [6] 06 1b 9c f0 88 97
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3203 CMD>  [36] 24 1b 9c f2 88 99 aa 89 88 89 98 a8 99 99 98 9a 9a aa a9 99 9a 99 a9 9a 9a 89 a9 99 9a 9a a9 a9 9a 8a 9a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3255 CMD>  [36] 24 1b 9d 12 a9 aa 98 99 99 98 9a 9a 99 99 a9 8a 99 9a 99 99 9a 99 88 aa 9a 99 99 a9 99 98 99 a9 89 99 9a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3330 CMD>  [36] 24 1b 9d 32 a8 98 9a 98 99 89 89 aa 99 ba 99 88 99 98 a9 98 98 99 98 88 89 8a 99 99 9a 8a 89 a9 99 a9 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3380 CMD>  [36] 24 1b 9d 52 a8 a9 99 a9 89 99 89 88 98 89 a9 a8 9a aa 99 a9 98 99 88 a9 9a 8a 89 98 88 99 99 99 a8 98 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3446 CMD>  [6] 06 1b 9d 72 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3472 CMD>  [36] 24 1b 9d 74 78 98 9a 89 8a 98 99 99 a9 a9 99 9a 99 a9 aa a9 8a 9a 99 a9 aa 98 9a 7a aa 9a 9a a8 9a 99 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3523 CMD>  [36] 24 1b 9d 94 99 a9 a9 aa 99 99 a9 a9 9a 9a aa a9 89 9a 9a 99 89 aa a9 99 89 a9 89 a9 99 9a 98 a9 89 99 aa 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3575 CMD>  [36] 24 1b 9d b4 9a 99 a8 79 a8 8a 99 89 aa a9 99 88 9a aa 99 a9 8a 98 a9 99 a8 89 99 98 98 9a 99 b9 98 9a 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3640 CMD>  [36] 24 1b 9d d4 aa 8a 9a 98 99 aa 99 9a 8a 89 99 99 8a 99 a9 a8 89 98 89 98 a9 98 99 99 89 9a 99 99 99 99 9a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3691 CMD>  [6] 06 1b 9d f4 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3717 CMD>  [36] 24 1b 9d f6 89 98 99 98 99 89 89 89 88 99 9a 9a 99 aa 99 99 a9 99 aa 9a a9 99 99 9a 9a 9a 99 a8 a9 99 aa 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3771 CMD>  [36] 24 1b 9e 16 9a a9 a8 8a 8a 99 99 a8 99 aa aa 8a 9a 99 a9 a9 98 9a 99 aa 89 8a 99 a9 99 99 8a a8 8a aa 9a 8a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3834 CMD>  [36] 24 1b 9e 36 aa 99 99 99 98 a9 99 aa 9a aa 98 88 99 99 a8 87 99 99 99 88 9a 9a 88 87 9a 99 88 a9 aa 9b 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3884 CMD>  [36] 24 1b 9e 56 99 98 98 89 99 99 98 99 aa 98 8a a9 a9 99 99 9a 99 99 88 98 79 9a a8 99 99 88 89 98 8a 89 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3934 CMD>  [6] 06 1b 9e 76 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.3961 CMD>  [36] 24 1b 9e 78 78 98 9a 9a 99 99 a9 88 89 99 a9 9a a9 a9 a9 a8 99 9a a9 99 99 9a 99 99 9a 9a 8a a8 9a 99 a9 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4012 CMD>  [36] 24 1b 9e 98 a9 aa aa aa 99 aa 98 a9 9a 99 a9 a8 a8 a9 b9 a9 a9 a9 98 a9 9a 98 99 a9 a9 99 89 8a 99 98 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4064 CMD>  [36] 24 1b 9e b8 a9 aa a9 88 a9 8a 99 9a 99 99 aa 88 99 99 a9 88 99 89 99 88 99 98 99 a9 89 99 8a a9 9a aa 99 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4116 CMD>  [36] 24 1b 9e d8 98 99 9a 98 a9 a9 a9 99 99 a9 89 aa 9a a9 98 9a 99 99 88 99 99 98 9a 99 89 b9 88 89 99 99 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4168 CMD>  [6] 06 1b 9e f8 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4192 CMD>  [36] 24 1b 9e fa 78 77 a9 88 98 a9 99 8a 99 a9 aa aa 79 a9 88 99 99 99 99 ba 9a 99 a9 a9 a8 aa 9a a9 9b a9 aa 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4244 CMD>  [36] 24 1b 9f 1a a9 99 99 ab 9a 99 aa 9a 89 9a 99 8a 89 98 a9 8a 89 89 99 88 a9 9a 89 99 99 9a 78 98 99 99 98 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4296 CMD>  [36] 24 1b 9f 3a 9a a9 99 99 99 99 99 88 b9 98 a9 89 aa 8a 98 98 99 a8 99 88 a9 79 89 98 99 8a 89 89 a7 a9 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4348 CMD>  [36] 24 1b 9f 5a 99 a9 99 99 99 89 99 9a 89 89 a8 88 98 89 98 a8 99 99 8a 98 89 88 89 99 98 89 9a 99 98 88 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4412 CMD>  [6] 06 1b 9f 7a 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4441 CMD>  [36] 24 1b 9f 7c 78 87 89 88 a8 98 89 88 99 9a aa aa a9 a9 99 9a 89 99 9a aa 99 99 98 99 a9 9a aa 99 a9 a9 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4491 CMD>  [36] 24 1b 9f 9c 99 9a 99 99 a9 a9 9a 9a aa 99 99 9a 98 98 a9 aa 89 aa a9 bb a8 98 89 9a aa 98 8a a9 99 89 aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4555 CMD>  [36] 24 1b 9f bc 98 99 99 8a 9a 99 98 aa aa a9 a9 89 a9 99 98 99 8a a8 98 99 98 8a 9a a8 a8 98 9a 99 aa 98 89 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4621 CMD>  [36] 24 1b 9f dc a8 9a 89 99 89 a8 99 89 8a a9 99 9a 99 99 a9 99 9a 9a a9 99 8a 99 9a a8 99 a9 88 99 99 89 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4670 CMD>  [6] 06 1b 9f fc 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4696 CMD>  [36] 24 1b 9f fe 78 98 aa 9a 99 98 98 98 8a a9 a8 a9 9a a8 a8 99 88 9a a9 99 89 a9 a9 89 9a 99 9a 89 99 9a 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4748 CMD>  [36] 24 1b a0 1e 9a 9a 9a 98 aa 99 88 9a 99 99 89 9a 99 89 a9 9a 99 9a a9 aa 99 9a 89 99 99 99 89 a8 a9 99 aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4814 CMD>  [36] 24 1b a0 3e 99 89 a9 8a 9a 98 99 9b a9 9a 89 9a 99 99 88 98 9a 99 89 8a 99 99 99 98 89 99 98 9a a9 99 88 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4865 CMD>  [36] 24 1b a0 5e 98 8a 9a 8a 98 99 9a 9a 86 99 98 9a 9a 99 99 a9 88 99 99 99 aa 99 89 88 99 89 89 89 98 99 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4917 CMD>  [6] 06 1b a0 7e 89 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.4942 CMD>  [36] 24 1b a0 80 89 88 89 a9 a9 99 8a 8a a9 99 89 89 8a a7 a8 99 9b 88 99 9a aa a9 99 aa aa 9a 99 99 a9 8a 9a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5007 CMD>  [36] 24 1b a0 a0 9a 9a 88 9a 89 99 99 9a aa 99 88 99 99 98 9a aa 89 aa 8a aa 99 8a 9a 99 9a 89 89 98 99 aa aa 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5070 CMD>  [36] 24 1b a0 c0 98 9a 89 99 98 98 88 99 99 a9 99 89 9a 98 99 98 99 99 89 89 99 99 89 98 99 9a 89 99 aa 99 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5122 CMD>  [36] 24 1b a0 e0 a9 a9 89 89 88 89 88 89 88 99 98 99 98 88 89 a9 a9 99 99 99 98 89 99 89 89 88 99 99 98 78 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5174 CMD>  [6] 06 1b a1 00 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5200 CMD>  [36] 24 1b a1 02 88 88 99 98 99 9a 98 99 9a 99 99 99 99 98 88 88 9a 88 aa 8a a9 99 9a 88 aa 99 99 98 aa 8a 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5265 CMD>  [36] 24 1b a1 22 9a 9a 99 99 99 98 9a 89 99 89 a9 aa 8a 89 9a 9a 89 99 99 aa 9a 99 99 99 99 a9 89 a8 a9 89 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5317 CMD>  [36] 24 1b a1 42 9a 9a a9 98 99 99 88 99 99 89 a9 9a 89 99 98 98 89 aa 99 9a 9a 8a 88 89 88 b9 99 9a 99 99 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5369 CMD>  [36] 24 1b a1 62 99 99 99 99 99 a9 89 99 99 88 99 88 99 98 a9 99 99 99 98 88 89 9a 99 88 98 99 99 99 99 a8 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5420 CMD>  [6] 06 1b a1 82 78 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5464 CMD>  [36] 24 1b a1 84 69 87 9a 89 88 88 99 99 98 98 98 aa a9 99 9a a8 99 99 99 9a 9a 99 99 a8 99 a9 89 aa 9a 98 9a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5528 CMD>  [36] 24 1b a1 a4 99 97 99 89 a9 89 a9 88 99 98 99 98 9a 99 ba 8a 99 a9 98 99 99 98 aa 99 a9 9a 88 9a 89 99 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5580 CMD>  [36] 24 1b a1 c4 9a 9a 99 89 89 98 98 8a 89 89 8a 98 99 89 99 98 99 98 99 99 89 a9 99 99 99 99 98 89 99 99 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5632 CMD>  [36] 24 1b a1 e4 98 98 8a 89 99 99 89 99 98 99 89 a9 9a 99 88 a9 99 89 98 89 a8 98 99 a8 89 98 88 98 a8 98 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5684 CMD>  [6] 06 1b a2 04 88 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5710 CMD>  [36] 24 1b a2 06 88 88 a9 88 9a 88 99 a9 99 98 a9 aa 89 98 98 99 89 99 98 aa 9a 99 8a 98 aa a9 8a 98 99 aa 9a 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5761 CMD>  [36] 24 1b a2 26 9a aa a9 8a a9 99 99 89 89 a9 89 aa 88 98 99 aa 98 9a 99 a8 99 98 8a 98 a9 9a 99 a9 98 89 8a a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5826 CMD>  [36] 24 1b a2 46 99 89 99 99 99 99 98 99 aa 98 88 98 79 a9 aa 89 99 99 98 89 89 8a 98 99 99 a9 89 a8 8a 9a 89 aa
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5878 CMD>  [36] 24 1b a2 66 99 99 89 88 98 89 89 89 99 89 99 99 99 78 98 a8 8a 89 98 98 89 88 89 98 99 89 88 88 89 88 98 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5943 CMD>  [6] 06 1b a2 86 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.5969 CMD>  [36] 24 1b a2 88 89 88 a9 98 99 88 98 9a a9 98 8a 98 88 99 8a 98 99 a8 aa a9 99 a9 99 8a 99 9a 98 a7 99 a9 8a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6033 CMD>  [36] 24 1b a2 a8 99 a9 99 9a 99 99 a9 7a 78 a9 99 9a 99 99 99 a9 99 9a 89 99 89 9a 9a 99 99 99 89 a8 99 99 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6084 CMD>  [36] 24 1b a2 c8 a9 8a a9 89 a8 88 9a 99 99 89 a9 89 99 a9 99 98 8a 89 89 8a 89 79 88 99 a9 a9 89 99 99 8a 89 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6150 CMD>  [36] 24 1b a2 e8 a8 9a 99 99 89 89 89 99 98 99 98 9a 99 99 89 99 99 8a 99 99 99 99 88 99 99 99 9a 98 98 88 88 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6201 CMD>  [6] 06 1b a3 08 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6228 CMD>  [36] 24 1b a3 0a 69 88 99 89 88 89 98 99 99 99 9a 99 a8 99 99 9a 9a a8 9a 9a 9a 9a 99 99 99 aa 89 a8 a9 a9 9a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6280 CMD>  [36] 24 1b a3 2a 9a 99 a9 88 9a 88 98 99 a9 88 a9 aa 88 99 98 a9 89 a8 99 99 88 98 99 9a 99 99 88 a7 8a 88 8b 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6344 CMD>  [36] 24 1b a3 4a 99 89 89 79 99 a7 88 89 99 99 89 98 97 99 98 98 79 88 97 99 a9 99 99 99 99 99 89 89 9a 99 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6395 CMD>  [36] 24 1b a3 6a 9a a9 88 88 89 9a 88 99 98 89 a8 98 79 99 98 99 99 87 88 8a 89 89 99 99 88 a9 89 98 89 88 88 79
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6461 CMD>  [6] 06 1b a3 8a 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6487 CMD>  [36] 24 1b a3 8c 88 97 9a 89 88 99 a9 9a aa aa a9 99 aa 99 8a 98 a9 99 9b a9 aa 98 99 98 8a 9a a9 a7 89 9a 9a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6549 CMD>  [36] 24 1b a3 ac 89 a8 89 99 9a 99 a9 a9 a9 a9 8a aa 99 9a a9 98 9a 99 98 9a a9 88 98 aa 89 99 89 99 99 aa 98 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6603 CMD>  [36] 24 1b a3 cc a9 99 a9 99 99 99 8b a9 99 9a 99 a9 9a 9a a9 99 89 89 a9 99 99 aa a8 98 89 89 99 99 a8 99 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6654 CMD>  [36] 24 1b a3 ec 99 a9 9a a8 99 89 99 89 88 99 98 99 88 a8 99 98 8a 99 99 99 89 89 99 99 88 88 79 98 9a 78 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6705 CMD>  [6] 06 1b a4 0c 98 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6732 CMD>  [36] 24 1b a4 0e 78 88 8a 99 89 98 99 98 a9 88 a9 89 99 98 98 88 9a 98 98 9a 8a 99 89 99 99 aa 9a 89 a9 89 99 a9
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6795 CMD>  [36] 24 1b a4 2e 89 aa 9a 88 88 a9 98 99 9a 99 89 99 9a 89 9a aa 9a aa 99 98 8a 99 99 99 a8 89 99 99 89 89 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6846 CMD>  [36] 24 1b a4 4e 99 88 78 99 98 99 99 99 99 a8 88 99 88 88 89 88 99 89 a9 88 88 99 98 98 88 98 89 99 98 89 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6910 CMD>  [36] 24 1b a4 6e 98 99 a9 89 98 98 89 98 88 88 98 99 99 a8 98 89 99 99 99 88 89 99 88 98 88 99 89 89 79 88 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.6975 CMD>  [6] 06 1b a4 8e 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7001 CMD>  [36] 24 1b a4 90 88 97 97 89 99 98 8a 99 9a aa a9 aa 99 99 9a b9 89 aa aa 99 a9 b9 9a 98 99 88 99 99 9a a9 89 79
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7065 CMD>  [36] 24 1b a4 b0 99 8a 8a 7a 99 9a 98 aa 99 aa 89 a8 99 a9 99 98 89 a9 99 a9 99 99 99 a9 89 99 89 89 99 99 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7128 CMD>  [36] 24 1b a4 d0 a9 99 99 99 99 99 89 99 99 99 89 98 99 8a 9a 97 99 99 88 8a 89 a9 99 87 99 aa 89 a9 98 99 8a 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7194 CMD>  [36] 24 1b a4 f0 99 89 98 99 99 88 98 99 88 88 98 a9 98 a9 79 99 99 98 98 88 8a 9a 98 88 89 99 98 98 99 79 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7257 CMD>  [6] 06 1b a5 10 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7284 CMD>  [36] 24 1b a5 12 78 88 99 88 99 a8 89 8a 99 99 a9 89 89 99 99 99 99 a9 9a 9a aa 89 98 99 99 7a a9 99 aa 99 aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7345 CMD>  [36] 24 1b a5 32 99 a9 99 9a 98 98 99 9a a8 a9 aa a9 98 99 99 9a 8a 99 99 a9 99 a8 89 89 99 9a 99 99 99 99 9a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7397 CMD>  [36] 24 1b a5 52 88 89 89 89 9a 8a 99 99 8a 9a 89 89 89 98 99 a8 89 99 99 98 8a 99 98 99 89 99 79 99 aa 88 88 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7462 CMD>  [36] 24 1b a5 72 9a a9 8a 99 88 88 98 89 99 98 89 99 89 99 98 99 99 a9 98 79 99 99 88 88 89 89 88 89 99 8a 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7513 CMD>  [6] 06 1b a5 92 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7539 CMD>  [36] 24 1b a5 94 88 98 99 89 87 98 a9 89 98 89 99 a9 98 a8 8a 9a 99 99 9a a9 98 a9 99 98 aa 99 99 99 9a 98 89 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7604 CMD>  [36] 24 1b a5 b4 99 88 aa 99 95 88 99 9a 99 99 9a 9a 89 99 98 99 99 a7 99 9a 89 99 99 a9 a9 9a 99 a8 98 99 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7656 CMD>  [36] 24 1b a5 d4 99 89 88 98 98 89 98 8a 99 99 99 99 99 99 9a 89 a8 88 98 a9 a9 99 88 98 88 99 89 98 a7 99 99 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7707 CMD>  [36] 24 1b a5 f4 89 99 9a 89 78 89 88 58 89 88 88 99 99 89 a8 89 99 97 98 89 89 88 88 98 98 89 88 97 98 88 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7772 CMD>  [6] 06 1b a6 14 78 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7799 CMD>  [36] 24 1b a6 16 78 78 99 99 99 99 98 99 a9 9a 99 a9 88 99 9a a9 8a 88 99 99 98 99 99 99 99 99 89 a9 a9 89 98 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7850 CMD>  [36] 24 1b a6 36 a8 99 89 a8 88 98 89 a8 89 89 9a a9 89 79 aa a9 99 9a 99 9a 89 89 8a 99 a9 9a 79 a8 aa 99 99 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7902 CMD>  [36] 24 1b a6 56 99 98 99 88 98 8a 88 99 98 98 89 98 88 99 98 98 99 99 98 98 88 98 89 a9 99 98 87 99 99 99 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.7966 CMD>  [36] 24 1b a6 76 99 99 9a 88 98 89 98 98 89 88 98 99 a9 98 99 99 89 89 98 89 99 88 98 b8 98 88 89 89 99 99 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8018 CMD>  [6] 06 1b a6 96 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8044 CMD>  [36] 24 1b a6 98 88 98 99 89 99 88 98 98 98 99 99 a9 99 a8 a9 8b 9a 9b a8 8a aa 89 99 a9 aa a9 a9 89 99 a8 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8096 CMD>  [36] 24 1b a6 b8 a8 89 aa 89 a9 89 a9 8a aa 99 a9 9a 98 99 98 a9 89 89 89 99 99 9a a8 99 aa 99 98 99 89 89 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8160 CMD>  [36] 24 1b a6 d8 9a a8 99 99 89 98 89 89 a8 99 98 88 9a 89 99 88 a9 88 98 88 a7 99 78 88 99 89 89 88 89 99 88 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8212 CMD>  [36] 24 1b a6 f8 98 a8 89 78 99 99 a9 96 89 98 88 89 99 89 98 89 78 89 89 89 99 99 97 89 89 89 89 87 99 79 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8277 CMD>  [6] 06 1b a7 18 76 97
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8303 CMD>  [36] 24 1b a7 1a 78 98 8a 99 98 99 8a 9a a9 98 9a 99 9a a9 8a 99 89 98 9a aa aa 99 99 a8 9a aa aa 88 aa a9 8a 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8354 CMD>  [36] 24 1b a7 3a 8a 7a 89 8a 88 a9 99 9a 99 8a 99 99 99 99 99 99 99 89 98 99 99 89 8a 99 a9 99 88 9a 8a 88 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8405 CMD>  [36] 24 1b a7 5a 99 89 99 89 89 98 98 89 89 99 99 98 99 98 99 89 99 88 99 99 88 99 87 89 89 99 89 88 99 88 99 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8470 CMD>  [36] 24 1b a7 7a 99 88 88 89 99 89 98 99 89 99 98 8a 9a 88 a8 9a 89 a8 98 98 99 98 88 98 99 a9 89 88 99 89 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8534 CMD>  [6] 06 1b a7 9a 98 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8560 CMD>  [36] 24 1b a7 9c 88 88 99 79 99 99 88 98 99 a9 a9 aa 89 88 99 99 8a a9 9a a9 99 a9 89 89 aa 8a 8a 98 a9 99 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8624 CMD>  [36] 24 1b a7 bc 9a 99 89 98 89 88 89 98 89 99 98 98 8a 99 99 89 99 99 89 a8 89 a8 88 99 9a 9a 88 89 88 89 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8689 CMD>  [36] 24 1b a7 dc 99 88 99 89 99 89 88 99 99 99 a8 89 a8 99 89 89 89 89 98 99 89 89 89 88 98 98 78 99 a9 98 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8740 CMD>  [36] 24 1b a7 fc 98 98 88 88 77 99 98 88 88 88 88 89 88 88 99 99 99 88 88 89 98 88 89 99 89 88 88 88 99 98 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8793 CMD>  [6] 06 1b a8 1c 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8819 CMD>  [36] 24 1b a8 1e 88 89 99 88 a8 78 87 89 89 89 99 9a 98 98 89 9a 89 99 98 99 88 9a 99 98 a8 9a 99 99 aa 98 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8886 CMD>  [36] 24 1b a8 3e 8a 98 98 99 88 89 99 9a 99 a8 99 8a 97 98 89 aa 99 98 98 99 99 88 89 99 99 99 88 9a 98 99 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.8951 CMD>  [36] 24 1b a8 5e 99 98 89 89 98 98 a9 99 99 89 88 89 89 99 89 98 88 88 99 a9 89 99 88 99 78 99 89 99 99 99 8a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9002 CMD>  [36] 24 1b a8 7e 88 98 89 98 78 89 89 89 88 9a 99 a8 88 88 89 88 aa 89 78 97 89 88 89 89 86 88 88 88 99 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9054 CMD>  [6] 06 1b a8 9e 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9080 CMD>  [36] 24 1b a8 a0 78 98 aa 88 98 89 99 99 89 9a 99 99 89 89 89 9a 89 99 a9 88 a9 99 89 a9 98 9a 89 99 99 98 98 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9132 CMD>  [36] 24 1b a8 c0 a9 9a 89 99 aa aa aa 89 9a 99 9a 9a 99 97 99 8a 99 97 99 88 8a 98 98 89 98 89 89 89 98 99 aa 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9197 CMD>  [36] 24 1b a8 e0 99 89 99 99 88 98 98 79 88 98 99 89 a7 99 69 99 99 99 a8 88 89 88 98 99 98 99 89 98 89 a9 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9248 CMD>  [36] 24 1b a9 00 98 99 88 88 89 98 99 98 88 88 88 98 88 87 89 88 a9 98 98 99 89 97 79 99 88 89 78 89 99 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9314 CMD>  [6] 06 1b a9 20 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9339 CMD>  [36] 24 1b a9 22 78 98 89 99 8a 88 98 98 99 99 99 9a 79 99 79 89 98 88 99 a9 99 98 99 a8 99 99 99 99 89 98 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9403 CMD>  [36] 24 1b a9 42 78 98 89 99 88 89 99 89 88 a8 99 8a 8a 98 89 99 98 88 a8 9a 88 98 78 99 88 9a 79 89 89 89 8a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9468 CMD>  [36] 24 1b a9 62 98 89 89 88 88 98 88 99 99 99 98 88 99 8a 99 99 99 89 99 88 99 89 78 98 88 88 88 87 99 88 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9520 CMD>  [36] 24 1b a9 82 98 88 88 89 98 89 89 8a 98 99 98 89 89 88 98 99 99 88 98 89 87 88 88 89 97 99 98 88 88 87 88 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9571 CMD>  [6] 06 1b a9 a2 77 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9600 CMD>  [36] 24 1b a9 a4 67 98 99 89 98 a8 98 89 99 88 a8 99 89 99 9a 99 88 88 a8 a9 99 89 99 98 88 a9 8a 99 9a 98 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9663 CMD>  [36] 24 1b a9 c4 a9 9a 8a 89 a9 89 99 9a 89 a9 99 89 89 88 aa 9a 98 98 99 99 a9 9a 89 a8 98 99 88 98 89 98 9a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9714 CMD>  [36] 24 1b a9 e4 89 99 99 98 89 98 98 99 79 89 97 98 99 99 99 89 89 88 98 98 99 a8 99 98 88 99 89 98 99 98 98 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9781 CMD>  [36] 24 1b aa 04 88 98 89 88 87 88 88 99 89 98 99 99 88 88 88 99 99 99 87 88 99 88 98 89 88 99 88 88 8a 98 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9846 CMD>  [6] 06 1b aa 24 78 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9871 CMD>  [36] 24 1b aa 26 88 87 99 78 a9 a9 99 99 89 99 ba 99 88 98 9a 89 98 89 a9 98 88 98 88 99 99 a9 98 99 9a 98 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9923 CMD>  [36] 24 1b aa 46 8a aa 9a 89 99 89 99 a9 99 89 99 99 8a 88 99 a9 98 79 98 98 99 89 99 98 98 98 89 9a 99 98 8a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   3.9975 CMD>  [36] 24 1b aa 66 98 88 a9 89 68 88 88 98 98 98 99 99 97 98 89 89 89 89 a7 88 88 78 89 88 89 99 88 98 89 99 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0038 CMD>  [36] 24 1b aa 86 88 98 98 87 98 89 88 88 89 89 89 a8 88 88 88 98 98 98 78 87 99 78 98 89 98 99 78 98 78 68 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0089 CMD>  [6] 06 1b aa a6 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0118 CMD>  [36] 24 1b aa a8 88 99 99 99 89 89 79 87 99 98 9a 9a 99 9a 99 99 8a 99 aa 9a 9a 89 99 99 99 a9 aa 99 99 99 7b 97
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0171 CMD>  [36] 24 1b aa c8 9a aa a9 9a 99 89 99 ba 88 a8 88 99 88 a8 aa 89 89 a8 98 89 9a 99 99 9a 98 99 98 88 98 a9 9a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0234 CMD>  [36] 24 1b aa e8 98 88 aa 87 99 88 89 98 88 99 99 88 79 99 99 a9 98 99 99 98 98 98 99 99 89 98 88 98 9a 9a 88 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0287 CMD>  [36] 24 1b ab 08 99 a8 89 88 98 89 88 98 89 88 99 98 99 99 89 98 89 98 88 98 89 89 89 a9 98 a8 99 99 89 99 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0338 CMD>  [6] 06 1b ab 28 68 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0365 CMD>  [36] 24 1b ab 2a 87 88 a9 89 99 89 89 89 89 9a 88 89 89 aa a8 99 89 89 aa 99 88 9a 99 97 99 99 99 a8 98 a9 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0416 CMD>  [36] 24 1b ab 4a 99 a9 89 89 99 99 89 99 98 98 8a 89 88 a9 99 a9 88 99 98 99 9a 99 98 88 99 99 98 a8 99 98 aa 79
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0468 CMD>  [36] 24 1b ab 6a 98 88 99 88 88 89 97 99 98 a8 89 98 89 99 89 98 89 88 88 98 89 88 88 88 89 9a 89 99 8a 99 79 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0519 CMD>  [36] 24 1b ab 8a 88 99 89 89 98 97 98 99 89 88 99 88 98 89 98 99 89 88 99 87 89 88 98 99 98 89 88 99 89 98 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0571 CMD>  [6] 06 1b ab aa 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0602 CMD>  [36] 24 1b ab ac 88 87 a9 98 99 98 98 88 99 a8 89 99 8a 88 98 99 99 99 9a 88 99 8a 99 8a aa 9a 99 98 99 99 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0665 CMD>  [36] 24 1b ab cc a9 9a 8a 89 89 88 99 99 99 a8 a9 98 99 a8 99 9a 89 99 99 99 9a 99 98 a8 99 88 8a 99 98 99 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0717 CMD>  [36] 24 1b ab ec 99 99 89 98 98 89 79 99 99 98 98 79 99 98 88 88 9a 88 98 98 89 88 79 99 99 89 88 98 89 98 88 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0790 CMD>  [36] 24 1b ac 0c 89 a8 98 68 89 89 88 89 89 88 88 88 87 88 98 88 89 88 78 98 8a 89 88 88 89 89 78 88 98 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0854 CMD>  [6] 06 1b ac 2c 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0880 CMD>  [36] 24 1b ac 2e 87 89 99 87 89 98 98 98 a8 88 9a 9a 98 8a 99 a8 a9 a9 b9 98 8a 99 99 a9 a9 99 89 98 99 89 99 a8
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0937 CMD>  [36] 24 1b ac 4e 98 99 9a 99 98 99 89 9a 99 98 99 89 88 9a 89 a8 88 88 99 9a 9a 98 98 88 88 98 98 97 a9 99 9a 9a
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.0999 CMD>  [36] 24 1b ac 6e 89 9a 99 9a 98 88 8a 98 98 99 98 99 8a 88 89 97 89 99 99 99 98 79 88 88 79 89 89 89 89 99 88 97
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1061 CMD>  [36] 24 1b ac 8e 99 98 78 98 98 89 98 98 89 88 88 89 98 98 89 89 98 99 88 98 78 88 89 98 98 88 88 98 98 89 79 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1126 CMD>  [6] 06 1b ac ae 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1151 CMD>  [36] 24 1b ac b0 78 88 99 98 78 88 88 88 89 98 a8 99 99 99 99 a9 98 78 99 8a 99 99 99 89 89 99 89 99 99 99 88 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1203 CMD>  [36] 24 1b ac d0 99 8a 9a 89 99 98 88 99 99 98 89 98 87 79 a9 a9 98 98 87 98 99 8a 89 99 98 99 99 89 88 79 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1255 CMD>  [36] 24 1b ac f0 a8 98 99 99 89 89 88 88 99 a9 98 88 89 88 88 89 88 98 88 89 89 88 88 88 99 87 89 98 99 99 78 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1320 CMD>  [36] 24 1b ad 10 79 99 88 88 89 89 98 89 98 88 88 99 99 88 88 88 98 88 88 98 88 89 88 79 99 79 89 88 98 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1370 CMD>  [6] 06 1b ad 30 87 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1396 CMD>  [36] 24 1b ad 32 87 88 99 89 99 98 98 99 79 99 99 a9 88 99 98 99 88 a8 98 98 98 9a 98 a8 9a 9a 89 89 a9 99 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1462 CMD>  [36] 24 1b ad 52 99 a9 89 79 99 88 98 8a 99 88 68 99 98 99 99 a9 88 89 98 99 88 98 88 89 98 99 98 88 88 99 9a 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1511 CMD>  [36] 24 1b ad 72 a9 99 98 89 79 98 99 99 a9 a9 88 89 99 98 89 99 98 88 99 98 99 98 89 9a 98 88 88 99 98 88 88 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1575 CMD>  [36] 24 1b ad 92 88 99 88 69 99 98 88 89 88 89 89 89 89 98 99 99 88 88 88 89 99 88 88 97 88 88 78 89 99 88 87 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1627 CMD>  [6] 06 1b ad b2 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1654 CMD>  [36] 24 1b ad b4 87 88 a8 88 88 98 88 88 99 99 99 99 99 88 89 9a 99 89 99 97 89 9a a8 99 9a 99 9a 99 99 a8 99 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1705 CMD>  [36] 24 1b ad d4 a9 98 99 8a 98 89 99 89 99 98 98 99 98 a8 98 99 98 89 88 99 9a 98 88 99 99 88 79 a8 98 88 99 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1770 CMD>  [36] 24 1b ad f4 88 99 99 89 98 88 98 89 88 98 88 88 88 a8 88 99 8a 98 89 89 89 9a 98 89 89 98 88 99 89 98 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1833 CMD>  [36] 24 1b ae 14 98 88 98 88 98 99 97 78 88 99 99 98 88 78 99 98 98 98 88 88 a9 89 98 99 88 88 88 86 98 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1884 CMD>  [6] 06 1b ae 34 77 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1911 CMD>  [36] 24 1b ae 36 88 88 98 78 88 88 98 79 89 87 99 89 9a 99 99 99 88 99 89 a8 99 99 88 98 99 89 89 89 98 99 89 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.1963 CMD>  [36] 24 1b ae 56 99 98 98 89 98 89 88 89 79 88 98 89 87 98 a9 89 89 89 88 89 88 98 89 98 99 98 89 98 89 98 8a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2014 CMD>  [36] 24 1b ae 76 99 99 98 88 98 88 78 88 a8 88 88 8a 99 89 7a 89 88 88 98 88 88 99 88 88 98 88 88 88 89 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2066 CMD>  [36] 24 1b ae 96 87 98 88 79 98 88 88 88 88 88 88 98 9a 89 89 89 89 88 98 89 89 88 89 99 98 88 88 78 88 88 88 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2118 CMD>  [6] 06 1b ae b6 77 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2142 CMD>  [36] 24 1b ae b8 68 98 99 7a 98 98 89 8a 88 98 89 9a 89 99 99 99 99 8a 9a 89 8a 88 97 89 99 98 7a 98 9a 89 87 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2208 CMD>  [36] 24 1b ae d8 99 89 98 7a 89 97 98 89 98 88 98 8a 99 98 89 a8 99 99 89 99 99 99 88 a9 88 a9 9a 99 99 88 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2264 CMD>  [36] 24 1b ae f8 89 88 99 99 89 99 88 89 88 88 8a 89 89 99 89 98 89 89 89 88 79 89 89 a9 97 99 89 89 99 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2326 CMD>  [36] 24 1b af 18 98 a7 9a 78 89 89 68 89 88 78 78 88 98 87 98 89 99 88 89 98 99 98 88 98 88 88 88 78 98 89 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2391 CMD>  [6] 06 1b af 38 87 97
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2417 CMD>  [36] 24 1b af 3a 88 98 97 78 88 89 89 88 88 88 a9 88 99 99 79 99 99 88 a9 99 89 99 88 88 99 99 89 98 99 98 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2470 CMD>  [36] 24 1b af 5a 9a 88 98 89 89 99 89 8b 89 98 89 99 88 98 89 a9 89 98 78 99 98 89 89 89 88 a8 99 88 88 98 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2529 CMD>  [36] 24 1b af 7a a9 a7 88 89 88 98 78 89 96 98 88 89 98 98 88 89 88 87 88 89 88 8a 88 88 88 99 68 99 89 88 87 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2595 CMD>  [36] 24 1b af 9a 98 99 88 88 87 88 89 88 88 98 88 88 98 98 98 78 88 87 89 99 88 88 78 88 88 88 87 88 89 89 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2645 CMD>  [6] 06 1b af ba 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2671 CMD>  [36] 24 1b af bc 88 87 8a 89 88 87 88 97 98 98 98 99 8a 99 89 a9 99 9a a8 99 9a 99 99 89 79 9a 98 98 89 9a 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2723 CMD>  [36] 24 1b af dc 89 99 99 a9 98 88 98 89 99 89 89 99 89 88 99 99 89 a9 99 99 98 89 98 99 89 98 88 98 89 97 8a 99
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2776 CMD>  [36] 24 1b af fc 99 99 99 88 99 89 88 99 88 89 98 89 89 88 88 a8 89 88 88 99 89 88 99 97 98 99 78 89 9a 99 79 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2841 CMD>  [36] 24 1b b0 1c 98 99 89 98 88 89 98 79 88 88 87 98 98 88 98 98 89 88 98 89 98 88 88 89 99 98 88 87 78 88 79 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2892 CMD>  [6] 06 1b b0 3c 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2919 CMD>  [36] 24 1b b0 3e 77 98 98 88 98 88 78 99 99 88 99 99 a8 99 98 98 89 98 88 98 99 89 88 89 89 89 98 98 8a 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.2971 CMD>  [36] 24 1b b0 5e 98 98 88 89 97 89 99 89 99 98 97 89 88 98 89 89 88 88 88 89 88 97 88 88 99 78 88 98 99 98 9a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3035 CMD>  [36] 24 1b b0 7e 99 88 89 88 89 88 88 9a 79 89 99 89 99 78 89 88 89 88 98 88 88 98 89 89 88 89 77 88 89 88 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3086 CMD>  [36] 24 1b b0 9e 89 a8 88 88 88 88 89 88 88 88 88 98 88 88 88 88 89 88 78 87 89 88 88 88 88 88 88 89 98 88 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3152 CMD>  [6] 06 1b b0 be 78 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3177 CMD>  [36] 24 1b b0 c0 77 87 99 88 88 89 88 89 97 89 9a 99 99 a9 88 98 99 99 88 88 78 89 89 89 99 8a 99 a8 99 99 8a 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3229 CMD>  [36] 24 1b b0 e0 98 99 98 9a 99 88 99 9a 89 88 88 99 98 89 98 98 98 88 98 98 98 99 99 88 99 89 89 89 87 99 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3281 CMD>  [36] 24 1b b1 00 98 99 99 88 89 89 88 89 88 88 a9 7a 99 88 98 99 8a 88 88 88 88 8a 89 88 87 98 88 87 98 88 88 79
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3346 CMD>  [36] 24 1b b1 20 98 99 88 88 98 88 88 88 89 88 88 98 88 99 89 88 98 88 88 88 89 88 88 88 78 88 79 88 88 89 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3397 CMD>  [6] 06 1b b1 40 87 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3424 CMD>  [36] 24 1b b1 42 68 87 88 88 98 89 88 88 88 98 99 98 88 98 99 98 8a 89 88 98 99 99 89 89 8a 98 88 99 88 89 89 96
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3476 CMD>  [36] 24 1b b1 62 99 99 89 89 a8 99 89 99 89 99 98 89 89 98 9a 98 89 88 98 99 89 89 88 99 88 89 88 88 79 98 aa 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3538 CMD>  [36] 24 1b b1 82 88 98 89 89 89 88 99 89 8a 99 8a 89 88 89 98 88 78 8a 87 88 98 87 88 99 88 89 89 88 88 78 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3603 CMD>  [36] 24 1b b1 a2 98 99 88 88 88 87 89 88 88 78 87 89 88 88 98 96 99 88 88 88 89 98 89 98 88 88 88 87 88 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3655 CMD>  [6] 06 1b b1 c2 78 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3681 CMD>  [36] 24 1b b1 c4 87 88 98 88 78 89 98 88 89 88 88 88 99 86 88 a9 88 89 88 98 99 79 98 98 88 98 89 99 89 89 99 97
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3729 CMD>  [36] 24 1b b1 e4 9a 89 99 99 89 89 88 99 88 99 99 99 89 88 99 98 89 9a 88 99 79 99 88 89 88 88 87 88 79 88 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3794 CMD>  [36] 24 1b b2 04 88 88 98 98 88 98 89 a9 88 98 87 89 99 88 89 88 98 88 98 98 99 89 88 98 88 98 88 a7 88 89 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3858 CMD>  [36] 24 1b b2 24 88 98 87 88 88 99 88 99 88 88 88 89 98 89 77 98 8a 88 79 88 98 78 78 98 88 89 78 88 88 89 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3910 CMD>  [6] 06 1b b2 44 78 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3936 CMD>  [36] 24 1b b2 46 58 97 99 88 98 88 88 89 88 98 79 89 99 89 89 98 88 89 79 99 99 89 88 88 8a 89 8a 98 89 98 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.3988 CMD>  [36] 24 1b b2 66 89 a9 98 98 88 a9 88 89 98 89 98 89 89 98 9a 98 88 89 88 89 99 8a 78 98 89 88 89 87 88 78 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4052 CMD>  [36] 24 1b b2 86 98 89 98 89 88 89 88 89 89 99 87 88 98 99 89 88 88 88 97 88 88 88 88 98 98 89 78 98 88 98 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4104 CMD>  [36] 24 1b b2 a6 88 99 98 98 88 88 78 89 88 98 98 88 88 76 98 98 89 88 88 89 78 89 88 98 79 89 99 88 88 68 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4169 CMD>  [6] 06 1b b2 c6 76 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4209 CMD>  [36] 24 1b b2 c8 88 88 88 87 87 79 78 88 99 79 98 99 98 99 88 89 88 79 99 98 8a 89 89 98 7a 89 8a 99 8a 8a 79 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4274 CMD>  [36] 24 1b b2 e8 98 98 89 99 88 89 98 89 98 97 78 99 89 89 99 a8 99 89 99 89 89 99 99 99 88 99 89 98 98 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4336 CMD>  [36] 24 1b b3 08 98 89 88 88 98 98 78 88 98 98 88 78 88 99 89 98 99 88 89 98 88 89 98 98 88 98 88 88 98 87 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4400 CMD>  [36] 24 1b b3 28 98 89 89 98 88 88 88 89 88 88 89 89 98 88 98 87 89 88 99 89 89 89 79 88 98 89 88 88 88 88 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4453 CMD>  [6] 06 1b b3 48 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4479 CMD>  [36] 24 1b b3 4a 78 78 89 89 96 78 78 7a 89 98 89 99 99 99 99 89 89 98 88 99 88 88 88 99 98 a8 89 88 98 87 89 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4530 CMD>  [36] 24 1b b3 6a 99 9a 8a 99 a9 98 99 89 99 8a 99 89 99 89 99 99 88 88 98 99 88 88 88 99 97 89 88 88 98 88 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4582 CMD>  [36] 24 1b b3 8a 99 98 98 99 98 89 88 89 88 98 88 89 88 98 98 98 89 78 98 79 98 98 89 89 89 88 78 98 88 99 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4635 CMD>  [36] 24 1b b3 aa 87 89 88 88 88 99 88 99 87 88 89 88 8a 88 98 99 88 87 98 88 88 88 89 89 88 89 88 98 98 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4686 CMD>  [6] 06 1b b3 ca 87 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4712 CMD>  [36] 24 1b b3 cc 78 87 88 88 99 99 88 88 99 98 78 9a 88 97 89 89 89 89 98 99 89 89 98 88 98 99 98 88 a9 99 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4777 CMD>  [36] 24 1b b3 ec a8 a9 79 89 99 98 99 99 88 88 9a 68 89 89 99 9a 89 89 88 78 89 99 89 88 87 88 88 98 98 89 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4842 CMD>  [36] 24 1b b4 0c 89 88 99 88 89 98 88 89 88 88 98 88 89 98 88 88 88 88 98 98 87 98 88 98 88 89 78 99 98 88 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4893 CMD>  [36] 24 1b b4 2c 98 98 89 79 97 77 78 88 88 86 88 88 89 98 88 88 89 86 88 89 87 88 98 98 79 78 77 88 89 78 77 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4958 CMD>  [6] 06 1b b4 4c 77 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.4984 CMD>  [36] 24 1b b4 4e 88 98 88 78 88 88 88 89 99 88 89 98 79 88 98 8a 89 79 98 9a 88 99 88 89 98 98 98 88 a9 98 89 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5049 CMD>  [36] 24 1b b4 6e 98 98 89 88 88 98 99 99 89 98 88 9a 88 88 89 89 89 88 89 99 88 88 88 89 88 99 99 98 87 88 89 97
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5101 CMD>  [36] 24 1b b4 8e 9a 99 88 89 98 99 89 99 99 88 97 88 99 88 88 88 89 88 89 88 88 88 88 88 99 88 88 99 88 98 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5166 CMD>  [36] 24 1b b4 ae 88 88 79 78 88 88 88 88 88 88 88 88 88 88 89 89 88 88 78 88 87 88 98 89 88 88 78 88 99 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5217 CMD>  [6] 06 1b b4 ce 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5243 CMD>  [36] 24 1b b4 d0 78 78 89 89 88 98 89 8a 89 98 99 8a 88 98 99 99 8a 99 88 99 88 88 99 98 99 89 89 88 88 98 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5296 CMD>  [36] 24 1b b4 f0 98 89 79 99 a7 98 88 89 88 98 98 89 89 88 88 9a 98 99 88 88 88 98 98 98 98 88 89 99 88 88 79 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5360 CMD>  [36] 24 1b b5 10 89 89 99 87 98 78 88 88 98 98 88 88 89 99 98 88 89 88 89 87 89 89 88 98 89 97 78 89 88 98 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5412 CMD>  [36] 24 1b b5 30 89 88 87 78 88 98 86 8a 98 88 88 98 88 88 98 89 88 78 88 88 98 98 89 87 88 98 69 89 88 97 78 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5477 CMD>  [6] 06 1b b5 50 87 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5503 CMD>  [36] 24 1b b5 52 68 78 89 88 98 78 88 88 98 87 88 88 78 97 88 88 89 87 87 99 98 99 87 89 88 98 89 79 99 98 98 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5567 CMD>  [36] 24 1b b5 72 9a 99 99 78 89 88 88 89 97 88 88 89 98 98 99 88 88 88 87 88 89 88 79 88 99 99 67 89 88 87 98 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5632 CMD>  [36] 24 1b b5 92 98 88 89 88 89 87 88 89 98 98 88 99 89 87 98 87 88 87 78 88 88 87 87 98 88 88 78 88 98 98 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5686 CMD>  [36] 24 1b b5 b2 88 89 89 78 97 77 88 89 88 77 87 98 87 88 78 88 78 87 88 88 88 88 88 87 88 88 88 88 88 87 77 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5737 CMD>  [6] 06 1b b5 d2 88 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5764 CMD>  [36] 24 1b b5 d4 78 97 99 78 98 79 87 9a 99 88 88 98 88 99 89 98 99 99 89 89 99 89 88 99 98 99 89 88 89 99 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5815 CMD>  [36] 24 1b b5 f4 99 99 99 79 89 88 79 89 99 88 89 a9 88 88 99 99 99 89 88 98 98 78 98 88 87 88 88 88 88 98 8a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5867 CMD>  [36] 24 1b b6 14 88 98 88 88 88 87 98 88 88 98 98 88 88 78 89 88 89 88 87 88 88 89 98 88 78 89 88 99 99 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5932 CMD>  [36] 24 1b b6 34 88 89 88 79 88 98 98 88 88 88 68 78 77 88 78 98 88 87 88 78 88 88 88 89 88 88 88 88 88 88 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.5984 CMD>  [6] 06 1b b6 54 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6009 CMD>  [36] 24 1b b6 56 58 86 88 89 98 88 88 89 99 98 89 99 89 88 99 99 88 88 88 98 99 88 88 89 89 98 89 88 99 98 88 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6061 CMD>  [36] 24 1b b6 76 99 89 87 88 79 87 88 8a 89 98 88 99 78 99 88 98 88 99 88 89 99 88 88 88 89 a9 89 88 77 88 99 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6130 CMD>  [36] 24 1b b6 96 87 98 89 78 88 89 88 89 88 99 88 88 78 77 87 88 88 98 88 87 78 88 78 98 88 88 79 78 89 99 89 98
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6193 CMD>  [36] 24 1b b6 b6 88 98 99 88 88 88 88 88 88 88 88 88 68 89 78 88 87 88 87 87 87 68 88 88 88 77 89 78 88 88 79 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6245 CMD>  [6] 06 1b b6 d6 77 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6269 CMD>  [36] 24 1b b6 d8 67 87 89 87 88 88 98 89 99 88 98 98 79 88 99 88 88 87 99 88 89 89 99 88 89 99 89 77 99 99 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6334 CMD>  [36] 24 1b b6 f8 99 89 98 89 98 87 78 99 98 88 88 a9 85 88 98 89 78 88 88 98 88 88 89 97 88 98 89 a8 88 89 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6385 CMD>  [36] 24 1b b7 18 88 88 98 89 78 89 88 78 98 88 98 87 79 87 88 88 88 99 89 88 89 97 88 98 88 89 78 78 89 88 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6450 CMD>  [36] 24 1b b7 38 88 98 89 78 88 88 88 87 98 89 68 88 88 77 99 88 88 88 88 88 88 89 77 78 87 87 88 88 89 87 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6501 CMD>  [6] 06 1b b7 58 78 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6525 CMD>  [36] 24 1b b7 5a 77 99 97 88 88 77 88 99 88 89 98 87 88 78 88 88 79 88 89 79 99 88 a8 88 88 88 8a 78 99 98 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6577 CMD>  [36] 24 1b b7 7a 98 89 89 89 89 78 88 89 88 88 88 88 88 98 99 99 98 87 98 98 88 98 88 88 79 88 87 98 78 88 98 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6640 CMD>  [36] 24 1b b7 9a 89 88 89 88 88 98 97 99 98 98 88 86 98 88 88 86 78 89 88 88 89 88 86 88 78 88 88 88 89 89 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6692 CMD>  [36] 24 1b b7 ba 88 88 88 88 77 88 77 89 88 98 68 87 88 87 88 88 88 88 89 88 89 88 78 88 88 87 88 88 88 78 78 68
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6743 CMD>  [6] 06 1b b7 da 86 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6771 CMD>  [36] 24 1b b7 dc 67 97 98 87 88 87 87 78 88 98 97 89 88 98 89 88 88 78 98 99 87 89 88 98 99 88 88 98 89 89 89 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6822 CMD>  [36] 24 1b b7 fc 99 a9 88 88 99 97 89 99 89 98 99 89 78 98 99 98 89 68 88 88 89 98 68 98 97 98 89 98 87 89 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6886 CMD>  [36] 24 1b b8 1c 98 88 88 88 88 89 78 78 87 99 88 88 89 88 89 88 88 88 88 87 87 88 87 88 88 78 88 97 89 98 87 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6940 CMD>  [36] 24 1b b8 3c 88 88 98 88 88 88 87 88 87 88 78 88 88 88 77 88 89 88 88 88 88 78 88 87 77 88 88 78 87 89 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.6991 CMD>  [6] 06 1b b8 5c 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7017 CMD>  [36] 24 1b b8 5e 77 77 98 77 88 78 88 88 88 98 89 99 89 99 99 a9 88 99 99 97 9a 89 88 88 99 99 99 98 99 98 77 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7068 CMD>  [36] 24 1b b8 7e a9 98 99 88 88 88 a8 98 8a 98 98 89 88 88 98 89 88 88 88 99 89 89 89 98 89 89 88 98 89 89 a9 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7121 CMD>  [36] 24 1b b8 9e 88 99 98 88 98 88 88 89 89 98 88 88 89 98 97 98 88 97 88 98 88 89 87 76 88 99 77 89 88 97 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7171 CMD>  [36] 24 1b b8 be 88 98 88 88 98 88 88 88 89 88 88 89 79 98 89 88 98 88 88 98 88 88 88 89 88 78 87 88 78 78 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7236 CMD>  [6] 06 1b b8 de 77 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7264 CMD>  [36] 24 1b b8 e0 87 87 88 88 76 78 88 89 78 89 98 89 88 99 88 89 98 98 89 99 89 99 88 87 88 89 79 87 99 79 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7325 CMD>  [36] 24 1b b9 00 88 98 89 88 88 88 97 89 88 88 88 79 88 88 98 99 98 89 87 88 89 88 88 89 98 78 89 96 88 88 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7377 CMD>  [36] 24 1b b9 20 88 88 89 88 78 87 87 99 88 99 88 78 88 88 88 88 89 88 78 78 79 89 78 87 87 88 78 88 89 9a 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7442 CMD>  [36] 24 1b b9 40 77 87 88 88 87 88 88 99 89 87 77 88 88 77 78 78 88 88 87 88 88 87 88 97 77 88 89 68 88 77 88 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7506 CMD>  [6] 06 1b b9 60 67 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7532 CMD>  [36] 24 1b b9 62 78 87 99 88 78 87 98 88 99 77 99 98 88 99 89 8a 88 89 97 98 89 88 88 99 88 89 98 99 98 88 88 79
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7584 CMD>  [36] 24 1b b9 82 99 8a 88 98 98 89 88 79 88 87 88 9a 89 98 99 98 88 88 88 98 88 88 88 88 89 89 89 98 89 89 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7649 CMD>  [36] 24 1b b9 a2 88 88 88 88 88 87 88 98 98 88 88 88 88 88 98 78 89 78 88 78 88 88 88 98 78 87 78 98 97 89 88 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7700 CMD>  [36] 24 1b b9 c2 78 88 88 87 88 88 78 89 88 88 88 99 88 78 88 88 88 78 87 77 78 88 87 88 88 88 89 77 88 88 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7752 CMD>  [6] 06 1b b9 e2 77 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7781 CMD>  [36] 24 1b b9 e4 77 88 89 88 88 87 88 88 98 88 89 89 98 88 98 98 98 88 99 88 98 88 88 88 88 99 89 98 99 8a 97 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7844 CMD>  [36] 24 1b ba 04 a9 98 88 89 88 88 99 88 88 98 98 89 88 97 87 88 89 88 98 99 88 88 88 88 88 7a 89 98 88 88 98 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7909 CMD>  [36] 24 1b ba 24 88 88 89 88 88 98 89 79 89 88 97 98 88 88 88 88 8a 88 88 88 88 98 88 87 88 88 87 78 79 99 87 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.7973 CMD>  [36] 24 1b ba 44 89 88 89 88 88 98 88 87 78 68 87 98 87 88 88 88 68 88 87 87 88 88 98 88 88 88 78 88 88 78 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8025 CMD>  [6] 06 1b ba 64 78 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8051 CMD>  [36] 24 1b ba 66 67 78 98 88 88 88 88 88 99 88 88 89 99 88 88 99 89 98 99 78 98 88 88 78 88 89 98 98 97 87 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8114 CMD>  [36] 24 1b ba 86 88 99 88 88 98 88 89 89 88 88 88 88 88 88 89 99 88 88 87 88 98 88 89 98 89 78 88 99 88 87 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8165 CMD>  [36] 24 1b ba a6 98 88 87 78 87 88 88 88 98 88 88 78 88 88 88 78 89 88 89 87 88 88 88 98 88 88 89 78 88 78 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8230 CMD>  [36] 24 1b ba c6 88 98 88 87 77 88 88 79 87 88 78 88 88 88 88 79 88 89 88 88 89 87 88 88 78 78 79 77 87 88 78 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8293 CMD>  [6] 06 1b ba e6 67 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8319 CMD>  [36] 24 1b ba e8 78 87 88 88 87 89 98 88 98 97 89 98 89 89 88 98 88 77 98 88 88 89 89 99 89 88 79 97 89 98 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8383 CMD>  [36] 24 1b bb 08 88 99 88 89 87 88 88 89 89 88 88 98 78 88 98 88 87 98 98 88 99 99 89 99 89 88 88 98 78 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8449 CMD>  [36] 24 1b bb 28 88 88 99 88 88 78 88 79 88 88 89 88 8a 88 89 88 88 88 88 88 88 88 88 88 88 88 78 98 87 88 77 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8512 CMD>  [36] 24 1b bb 48 88 88 97 88 88 88 88 89 88 88 88 68 88 78 88 88 88 78 88 87 98 88 88 68 78 88 77 88 88 78 87 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8576 CMD>  [6] 06 1b bb 68 87 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8605 CMD>  [36] 24 1b bb 6a 78 78 89 88 87 88 87 88 88 89 99 89 97 88 87 97 89 88 98 98 88 77 78 88 89 8a 87 98 89 99 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8667 CMD>  [36] 24 1b bb 8a 88 98 97 78 78 87 89 8a 78 87 88 88 89 88 99 99 88 88 88 89 89 88 88 99 87 88 88 89 77 88 98 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8732 CMD>  [36] 24 1b bb aa 87 88 78 88 88 87 88 89 98 86 98 88 88 78 88 88 88 78 88 88 88 77 87 87 87 88 78 88 88 88 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8783 CMD>  [36] 24 1b bb ca 88 87 88 78 98 88 88 88 98 97 78 88 89 77 89 77 78 87 88 77 88 88 88 86 88 78 88 88 88 77 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8847 CMD>  [6] 06 1b bb ea 87 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8871 CMD>  [36] 24 1b bb ec 67 87 88 88 88 87 88 88 79 88 88 98 89 88 89 98 89 98 99 88 88 89 88 98 99 89 88 a9 98 89 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8936 CMD>  [36] 24 1b bc 0c 98 98 89 88 87 97 89 89 97 89 88 98 88 98 89 98 88 88 88 88 99 88 78 88 98 88 79 89 88 98 98 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.8987 CMD>  [36] 24 1b bc 2c 88 87 89 89 98 88 77 89 97 98 88 89 88 88 88 88 88 88 88 88 88 98 88 98 88 98 88 87 88 89 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9039 CMD>  [36] 24 1b bc 4c 88 78 88 78 88 88 88 88 77 87 97 79 88 88 88 88 88 88 88 68 77 88 88 88 87 88 88 78 78 78 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9092 CMD>  [6] 06 1b bc 6c 78 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9120 CMD>  [36] 24 1b bc 6e 88 88 89 88 88 88 78 78 89 88 88 89 89 98 88 99 88 78 88 88 89 88 88 88 78 88 78 89 99 87 78 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9172 CMD>  [36] 24 1b bc 8e 88 98 89 89 88 88 88 88 88 98 98 87 88 88 88 89 78 88 88 89 88 88 88 98 88 88 88 98 87 98 89 68
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9224 CMD>  [36] 24 1b bc ae 88 97 89 88 88 88 88 89 88 88 88 88 88 88 88 88 88 87 78 87 89 89 78 89 88 88 87 98 88 87 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9289 CMD>  [36] 24 1b bc ce 86 78 88 78 88 77 87 88 88 87 88 88 88 87 78 88 88 88 77 88 78 88 67 77 88 77 87 87 85 68 68 68
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9341 CMD>  [6] 06 1b bc ee 76 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9367 CMD>  [36] 24 1b bc f0 77 86 88 78 68 77 78 78 98 78 78 98 88 88 88 89 89 88 99 98 99 88 89 88 88 88 78 78 89 77 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9422 CMD>  [36] 24 1b bd 10 89 89 88 88 88 88 88 89 88 88 87 89 78 87 68 98 88 98 88 89 88 88 88 98 88 89 88 99 88 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9485 CMD>  [36] 24 1b bd 30 88 88 88 88 88 88 88 68 88 96 88 88 78 88 78 87 88 87 87 87 88 88 77 78 87 98 78 98 88 87 78 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9554 CMD>  [36] 24 1b bd 50 88 97 68 78 88 78 68 77 87 88 68 78 87 87 78 88 98 58 87 88 88 88 87 88 77 88 77 88 88 77 77 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9617 CMD>  [6] 06 1b bd 70 77 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9643 CMD>  [36] 24 1b bd 72 78 88 89 88 88 87 88 88 88 87 87 88 88 78 78 88 98 88 98 98 98 98 78 88 99 88 88 78 88 97 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9694 CMD>  [36] 24 1b bd 92 8a 98 88 88 98 99 99 99 98 88 98 88 88 89 88 99 98 78 78 88 78 88 79 a8 88 99 77 88 97 87 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9761 CMD>  [36] 24 1b bd b2 88 87 89 87 88 88 87 87 88 88 88 89 98 88 88 88 88 88 88 87 88 88 78 88 88 78 77 88 88 88 68 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9825 CMD>  [36] 24 1b bd d2 78 88 88 88 87 88 88 78 88 87 77 88 87 77 97 77 88 88 88 87 78 88 88 78 86 88 78 78 88 88 77 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9889 CMD>  [6] 06 1b bd f2 66 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9915 CMD>  [36] 24 1b bd f4 78 88 78 88 78 88 88 88 87 78 88 88 89 88 99 98 88 88 88 79 89 79 78 87 88 88 88 89 88 87 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   4.9981 CMD>  [36] 24 1b be 14 88 88 88 89 88 88 89 88 77 88 78 89 98 88 76 88 78 89 88 88 87 88 88 98 88 98 88 87 88 98 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0032 CMD>  [36] 24 1b be 34 88 98 88 78 78 88 88 89 98 88 78 77 88 88 88 88 88 87 87 77 88 88 79 78 88 88 77 88 87 88 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0099 CMD>  [36] 24 1b be 54 78 78 88 88 88 88 88 78 88 68 87 88 88 87 78 87 78 87 88 78 88 88 77 88 87 87 88 88 87 88 67 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0179 CMD>  [6] 06 1b be 74 76 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0211 CMD>  [36] 24 1b be 76 78 87 98 78 88 88 98 88 97 88 88 88 88 89 98 88 89 88 89 98 88 78 88 98 88 78 89 88 98 87 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0290 CMD>  [36] 24 1b be 96 88 88 98 88 98 78 88 a9 88 89 87 98 88 98 88 88 68 88 86 88 88 89 88 88 87 87 87 98 98 88 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0350 CMD>  [36] 24 1b be b6 87 88 88 89 87 88 88 88 87 88 87 87 87 88 88 78 88 78 98 87 88 88 87 86 88 88 88 89 77 89 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0416 CMD>  [36] 24 1b be d6 78 98 88 88 88 88 87 78 87 88 88 88 89 78 88 88 87 89 78 87 78 88 78 78 87 88 88 86 88 78 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0466 CMD>  [6] 06 1b be f6 77 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0492 CMD>  [36] 24 1b be f8 67 65 89 88 87 78 88 88 78 99 87 98 88 98 78 98 98 88 88 88 89 88 89 88 98 89 89 87 98 87 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0555 CMD>  [36] 24 1b bf 18 99 99 88 77 98 98 88 88 78 79 78 98 88 88 88 87 78 88 98 88 88 88 78 88 88 88 78 97 98 88 68 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0620 CMD>  [36] 24 1b bf 38 88 88 58 87 88 89 88 88 79 88 88 78 87 98 89 78 88 78 89 87 88 88 88 78 97 88 78 87 88 98 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0670 CMD>  [36] 24 1b bf 58 89 88 78 78 78 88 88 88 77 88 78 88 78 77 88 87 88 77 78 88 88 87 87 98 78 87 78 87 77 77 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0721 CMD>  [6] 06 1b bf 78 67 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0747 CMD>  [36] 24 1b bf 7a 78 87 89 87 88 88 88 88 89 88 98 89 98 99 89 88 89 88 99 98 88 99 88 98 98 99 78 98 98 99 7a 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0812 CMD>  [36] 24 1b bf 9a 88 89 89 79 88 99 88 88 88 99 98 88 89 87 99 89 78 98 89 98 99 99 88 87 98 88 78 98 88 88 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0862 CMD>  [36] 24 1b bf ba 98 96 98 88 88 87 88 89 88 88 88 88 88 88 87 88 78 88 98 98 98 88 68 88 88 88 87 87 78 88 87 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0913 CMD>  [36] 24 1b bf da 88 98 79 88 98 88 89 78 88 88 88 78 78 88 78 87 79 88 88 87 78 88 89 88 78 78 88 87 78 78 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0965 CMD>  [6] 06 1b bf fa 77 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.0990 CMD>  [36] 24 1b bf fc 78 78 88 78 88 87 98 78 98 88 98 89 86 88 89 89 88 78 98 88 89 89 88 88 88 99 89 88 89 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1042 CMD>  [36] 24 1b c0 1c 88 87 88 78 88 88 89 98 89 88 88 88 88 87 88 88 86 98 88 88 78 87 89 88 88 87 77 78 88 78 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1106 CMD>  [36] 24 1b c0 3c 88 88 88 89 87 88 88 88 87 88 88 88 88 88 88 88 78 88 88 88 89 88 88 78 88 89 78 87 88 88 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1155 CMD>  [36] 24 1b c0 5c 88 98 88 87 76 88 88 77 88 88 78 88 78 88 88 78 88 88 87 87 78 88 87 88 89 87 66 77 88 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1219 CMD>  [6] 06 1b c0 7c 68 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1246 CMD>  [36] 24 1b c0 7e 77 88 76 88 78 87 88 88 88 88 98 79 78 97 78 88 88 86 89 89 89 88 87 87 88 88 89 98 88 78 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1309 CMD>  [36] 24 1b c0 9e 89 88 88 88 88 86 88 88 98 88 88 98 88 98 98 a8 88 88 88 88 77 79 78 97 88 89 88 88 88 87 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1361 CMD>  [36] 24 1b c0 be 88 89 88 78 88 88 88 78 98 89 88 88 89 88 88 88 78 87 67 87 88 88 88 87 78 88 88 77 98 88 68 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1412 CMD>  [36] 24 1b c0 de 87 88 78 78 67 87 78 88 77 88 87 88 79 78 87 88 88 88 86 77 88 77 88 77 57 78 77 77 88 77 77 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1478 CMD>  [6] 06 1b c0 fe 67 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1504 CMD>  [36] 24 1b c1 00 58 87 88 78 98 88 87 89 88 98 89 98 89 88 88 88 78 88 88 78 98 79 88 78 88 88 88 98 88 89 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1568 CMD>  [36] 24 1b c1 20 89 89 98 78 88 88 88 8a 98 88 99 89 87 77 78 89 88 89 88 98 98 88 88 98 88 89 88 88 88 88 89 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1632 CMD>  [36] 24 1b c1 40 88 88 88 88 88 88 88 89 88 89 87 88 99 88 88 88 88 78 87 78 88 87 98 98 89 88 87 98 88 87 68 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1695 CMD>  [36] 24 1b c1 60 88 89 88 78 87 77 88 78 88 78 67 88 88 78 77 88 89 88 87 78 88 78 88 86 87 88 68 88 78 88 77 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1746 CMD>  [6] 06 1b c1 80 87 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1774 CMD>  [36] 24 1b c1 82 57 86 88 77 87 88 87 88 88 88 98 78 68 78 88 88 88 88 99 88 89 89 76 87 88 99 88 88 88 88 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1824 CMD>  [36] 24 1b c1 a2 88 88 88 78 88 78 89 99 78 98 77 88 78 87 88 98 87 88 68 87 89 98 78 88 88 88 87 98 77 97 89 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1888 CMD>  [36] 24 1b c1 c2 88 88 87 88 88 97 88 79 77 88 88 87 88 87 88 86 88 87 88 86 79 98 67 88 87 77 68 76 87 87 77 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.1952 CMD>  [36] 24 1b c1 e2 88 88 88 86 87 86 78 88 77 78 78 67 78 77 88 79 77 88 87 77 68 78 88 77 87 87 67 77 77 78 66 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2003 CMD>  [6] 06 1b c2 02 57 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2029 CMD>  [36] 24 1b c2 04 76 87 88 78 98 88 88 88 99 87 98 78 88 88 88 78 89 88 89 89 88 76 88 88 98 89 78 88 88 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2099 CMD>  [36] 24 1b c2 24 88 78 89 89 88 98 88 78 88 88 87 88 88 88 69 a9 88 88 88 88 89 88 88 98 98 88 78 98 78 88 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2158 CMD>  [36] 24 1b c2 44 98 89 87 77 87 88 88 8a 98 88 88 88 87 88 88 88 88 78 87 87 78 78 78 88 88 87 78 87 88 88 78 89
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2222 CMD>  [36] 24 1b c2 64 88 88 88 78 88 87 88 78 87 98 86 87 88 88 88 88 89 88 88 76 78 78 87 77 77 77 88 76 88 87 77 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2274 CMD>  [6] 06 1b c2 84 67 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2301 CMD>  [36] 24 1b c2 86 77 87 78 78 87 78 67 89 88 88 88 88 78 88 88 89 98 88 79 88 88 98 88 98 88 88 87 88 a8 87 99 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2352 CMD>  [36] 24 1b c2 a6 88 88 88 88 88 98 87 78 98 88 88 88 88 78 88 87 77 98 86 89 88 78 88 78 88 88 78 78 89 88 89 68
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2414 CMD>  [36] 24 1b c2 c6 88 88 77 88 86 87 87 88 88 77 87 87 77 88 87 87 78 87 88 88 77 88 78 88 88 87 78 87 87 78 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2465 CMD>  [36] 24 1b c2 e6 88 88 88 79 86 87 86 78 88 88 87 88 77 88 87 77 77 78 87 88 88 88 87 88 78 77 88 78 87 86 78 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2516 CMD>  [6] 06 1b c3 06 77 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2541 CMD>  [36] 24 1b c3 08 57 87 87 78 88 58 88 88 88 88 88 79 78 88 88 97 88 78 98 88 78 78 88 87 88 88 88 88 78 88 88 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2607 CMD>  [36] 24 1b c3 28 78 76 78 78 88 88 88 89 78 88 88 98 78 88 88 88 88 88 78 89 88 87 78 89 88 78 88 88 88 88 77 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2658 CMD>  [36] 24 1b c3 48 88 98 78 88 88 68 88 88 88 88 87 78 88 88 88 87 76 67 87 88 78 88 88 78 98 88 67 88 88 88 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2721 CMD>  [36] 24 1b c3 68 88 88 67 78 57 87 77 77 78 87 78 78 78 86 88 77 88 77 78 77 88 87 78 88 88 76 77 87 76 75 77 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2785 CMD>  [6] 06 1b c3 88 66 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2810 CMD>  [36] 24 1b c3 8a 77 87 88 78 96 77 87 88 88 88 88 8a 88 78 87 88 87 88 88 87 88 87 78 89 98 78 87 88 98 88 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2861 CMD>  [36] 24 1b c3 aa 89 88 88 88 88 88 88 88 88 88 78 89 88 88 87 99 78 88 88 89 78 68 68 88 98 78 77 88 88 88 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2924 CMD>  [36] 24 1b c3 ca 98 86 87 77 87 87 78 78 68 88 88 88 68 78 87 77 88 77 87 85 87 78 77 79 87 78 78 87 78 97 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.2986 CMD>  [36] 24 1b c3 ea 77 87 77 77 88 88 78 78 77 77 87 88 87 77 77 78 88 77 87 87 87 77 77 78 77 87 77 68 67 77 77 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3051 CMD>  [6] 06 1b c4 0a 67 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3076 CMD>  [36] 24 1b c4 0c 78 86 78 88 87 78 76 88 88 88 88 77 89 78 78 88 87 78 88 88 88 78 88 88 88 88 88 87 88 87 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3126 CMD>  [36] 24 1b c4 2c 88 88 98 88 88 97 78 89 88 88 88 88 78 87 88 88 88 88 88 79 88 87 77 88 88 88 78 78 88 88 89 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3178 CMD>  [36] 24 1b c4 4c 98 87 77 89 87 88 87 88 88 78 77 77 88 78 88 88 88 88 88 87 88 88 67 88 88 88 68 88 88 87 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3228 CMD>  [36] 24 1b c4 6c 87 88 87 78 87 88 68 68 77 88 67 87 88 76 87 77 78 78 68 78 88 78 78 68 68 78 77 78 77 76 68 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3295 CMD>  [6] 06 1b c4 8c 67 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3320 CMD>  [36] 24 1b c4 8e 78 86 88 68 87 86 86 88 88 88 88 88 88 88 88 87 88 88 88 88 76 88 78 88 88 68 78 97 88 89 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3370 CMD>  [36] 24 1b c4 ae 88 98 88 88 87 88 86 98 88 89 88 98 67 88 88 98 88 88 87 88 88 88 88 89 88 77 68 87 88 88 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3432 CMD>  [36] 24 1b c4 ce 88 97 88 78 88 77 87 88 78 88 88 87 88 88 87 87 77 87 78 87 77 78 78 88 87 78 87 88 88 88 78 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3483 CMD>  [36] 24 1b c4 ee 76 78 76 78 77 88 77 88 78 87 85 88 78 86 78 77 78 77 87 86 77 78 68 87 76 87 88 77 76 65 67 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3534 CMD>  [6] 06 1b c5 0e 66 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3559 CMD>  [36] 24 1b c5 10 66 87 88 78 88 88 87 77 87 76 88 98 78 87 88 78 88 88 88 88 87 88 88 78 99 88 88 88 88 88 79 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3610 CMD>  [36] 24 1b c5 30 88 88 88 79 88 86 87 88 88 88 88 88 68 88 88 98 78 87 87 88 87 78 78 88 88 88 78 86 78 88 97 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3662 CMD>  [36] 24 1b c5 50 87 88 87 76 88 77 77 68 87 88 87 87 78 77 87 67 77 77 78 87 87 77 78 77 77 79 76 88 87 78 87 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3726 CMD>  [36] 24 1b c5 70 78 87 88 46 76 88 88 87 88 77 76 86 88 78 88 87 87 88 77 86 77 88 68 88 77 88 67 67 87 68 78 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3779 CMD>  [6] 06 1b c5 90 67 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3809 CMD>  [36] 24 1b c5 92 58 67 87 87 87 88 77 77 87 78 88 87 78 77 88 88 88 78 88 87 88 88 88 87 88 88 88 87 89 88 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3860 CMD>  [36] 24 1b c5 b2 87 88 98 58 88 78 87 78 88 88 88 88 88 77 99 88 77 88 78 88 88 87 78 88 88 77 77 88 88 87 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3910 CMD>  [36] 24 1b c5 d2 88 87 89 78 87 68 87 88 78 88 88 88 78 87 87 87 56 77 87 87 88 67 77 78 87 78 88 88 88 88 77 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.3975 CMD>  [36] 24 1b c5 f2 77 78 76 77 88 88 77 88 78 87 78 87 77 78 77 77 88 88 87 88 77 77 77 77 67 68 86 67 87 77 77 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4025 CMD>  [6] 06 1b c6 12 66 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4061 CMD>  [36] 24 1b c6 14 68 67 98 78 87 88 77 68 78 98 88 87 88 87 87 78 88 78 88 79 78 98 88 88 88 98 88 88 88 77 89 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4114 CMD>  [36] 24 1b c6 34 88 88 88 77 87 78 88 98 89 87 98 88 78 87 88 99 68 88 88 87 78 88 87 96 88 88 68 97 87 98 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4165 CMD>  [36] 24 1b c6 54 78 78 88 78 88 87 88 88 67 78 87 76 88 78 87 88 88 88 88 77 77 88 67 76 87 86 78 88 87 88 67 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4216 CMD>  [36] 24 1b c6 74 87 87 88 75 78 68 78 78 88 78 86 77 67 78 78 88 68 67 87 87 87 67 88 78 78 78 77 87 77 77 67 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4268 CMD>  [6] 06 1b c6 94 66 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4291 CMD>  [36] 24 1b c6 96 67 67 97 86 77 77 87 77 88 78 78 89 88 89 88 88 88 78 87 88 88 69 86 88 88 89 88 88 78 78 68 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4342 CMD>  [36] 24 1b c6 b6 88 87 88 77 67 88 88 99 78 78 88 88 88 87 89 88 87 99 87 88 77 77 88 87 77 88 77 78 77 88 88 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4393 CMD>  [36] 24 1b c6 d6 78 88 76 78 78 78 85 78 77 88 77 77 88 87 87 87 77 77 88 87 77 78 88 87 77 77 77 87 78 88 77 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4445 CMD>  [36] 24 1b c6 f6 88 98 78 87 87 78 88 68 77 77 77 87 87 76 88 87 68 78 78 67 78 78 66 87 66 77 77 87 77 86 78 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4507 CMD>  [6] 06 1b c7 16 67 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4533 CMD>  [36] 24 1b c7 18 66 88 88 77 78 77 77 78 88 97 88 88 88 89 88 98 87 88 87 88 78 88 88 87 88 89 78 78 88 88 78 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4584 CMD>  [36] 24 1b c7 38 88 96 88 88 86 88 77 78 88 88 88 77 88 87 78 88 87 88 87 77 78 88 87 97 87 87 77 87 88 78 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4646 CMD>  [36] 24 1b c7 58 77 87 87 88 88 88 78 88 87 87 87 76 87 78 87 88 87 77 78 88 78 78 78 87 87 88 47 88 88 87 87 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4710 CMD>  [36] 24 1b c7 78 88 68 78 77 77 77 77 88 78 78 88 78 88 87 86 86 77 68 76 87 77 76 67 87 78 67 87 87 77 67 77 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4774 CMD>  [6] 06 1b c7 98 57 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4800 CMD>  [36] 24 1b c7 9a 67 88 88 77 88 87 67 88 88 78 88 88 87 98 97 78 87 88 88 88 89 78 68 88 88 87 78 78 87 78 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4851 CMD>  [36] 24 1b c7 ba 88 68 89 77 77 88 87 88 87 78 77 88 78 88 78 88 87 87 88 98 88 88 67 88 88 77 78 87 86 86 88 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4903 CMD>  [36] 24 1b c7 da 88 78 88 78 87 77 75 88 88 88 86 76 78 88 88 77 77 67 77 68 88 88 77 87 88 87 88 87 88 78 77 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.4953 CMD>  [36] 24 1b c7 fa 67 87 77 87 88 76 77 88 77 86 77 78 77 85 88 87 88 78 87 86 78 67 77 88 68 88 77 78 87 68 78 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5005 CMD>  [6] 06 1b c8 1a 57 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5031 CMD>  [36] 24 1b c8 1c 77 66 88 68 77 87 76 77 77 78 78 88 79 88 88 88 88 78 78 88 77 89 87 88 88 88 88 87 88 68 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5113 CMD>  [36] 24 1b c8 3c 99 86 77 78 88 88 88 88 87 87 88 88 78 77 88 88 88 67 77 87 89 89 78 88 88 88 78 88 76 88 88 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5176 CMD>  [36] 24 1b c8 5c 88 88 88 78 87 88 78 87 78 98 87 87 87 78 87 87 78 87 77 77 78 88 87 88 78 86 77 77 88 77 88 68
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5237 CMD>  [36] 24 1b c8 7c 87 88 78 76 78 66 76 77 77 88 77 78 78 76 76 87 78 78 76 67 98 78 64 78 68 88 77 87 88 77 78 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5300 CMD>  [6] 06 1b c8 9c 66 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5324 CMD>  [36] 24 1b c8 9e 77 87 88 77 88 76 86 78 87 67 87 88 87 87 88 67 86 88 88 77 78 77 88 87 98 89 89 86 88 87 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5375 CMD>  [36] 24 1b c8 be 98 88 88 88 78 78 87 88 88 78 88 76 87 68 88 87 87 66 87 78 88 78 87 77 88 78 77 87 77 88 89 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5439 CMD>  [36] 24 1b c8 de 88 88 87 86 77 88 87 88 87 87 88 78 88 67 78 77 88 87 78 88 68 77 68 87 77 78 76 88 87 77 77 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5490 CMD>  [36] 24 1b c8 fe 78 88 87 78 78 78 88 77 76 58 67 88 88 77 78 78 76 57 66 78 68 77 77 88 67 87 78 55 87 76 67 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5540 CMD>  [6] 06 1b c9 1e 55 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5566 CMD>  [36] 24 1b c9 20 66 77 78 67 77 87 77 88 88 77 88 79 87 98 86 87 78 87 88 78 88 88 86 77 89 88 77 86 87 97 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5619 CMD>  [36] 24 1b c9 40 77 89 88 88 97 78 88 88 78 87 88 78 77 86 88 88 77 88 87 88 88 78 88 77 78 68 77 87 78 77 89 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5669 CMD>  [36] 24 1b c9 60 87 88 88 78 77 78 87 88 88 88 78 77 77 88 88 88 88 77 87 76 78 77 87 77 78 88 78 78 87 89 68 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5733 CMD>  [36] 24 1b c9 80 87 88 88 68 88 88 77 78 88 87 86 68 77 86 78 88 88 78 77 77 77 77 77 67 77 78 67 78 77 67 68 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5784 CMD>  [6] 06 1b c9 a0 47 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5810 CMD>  [36] 24 1b c9 a2 67 87 88 78 77 87 67 78 78 77 88 79 88 88 87 79 88 77 86 88 68 88 78 87 98 88 78 77 88 88 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5861 CMD>  [36] 24 1b c9 c2 99 78 78 78 88 87 78 89 87 87 88 89 88 86 88 88 77 88 88 88 89 88 87 88 86 88 77 98 77 87 78 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5913 CMD>  [36] 24 1b c9 e2 88 77 77 88 98 67 77 78 87 97 87 77 88 87 77 67 88 76 87 87 77 79 67 78 88 88 67 76 88 77 77 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.5964 CMD>  [36] 24 1b ca 02 76 87 77 75 88 76 78 78 77 67 77 78 87 78 77 76 88 76 88 78 76 87 67 87 87 86 67 77 78 67 87 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6014 CMD>  [6] 06 1b ca 22 76 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6041 CMD>  [36] 24 1b ca 24 77 66 58 77 77 77 67 87 87 87 74 88 88 88 88 98 88 87 88 88 88 86 68 87 88 77 77 87 88 78 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6107 CMD>  [36] 24 1b ca 44 88 87 77 78 87 87 87 88 88 88 88 89 76 87 88 88 67 87 87 88 78 87 87 78 88 87 77 88 78 68 88 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6170 CMD>  [36] 24 1b ca 64 87 87 78 78 77 77 67 85 88 77 78 77 88 87 88 77 78 77 66 78 87 87 67 77 76 87 78 87 68 78 76 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6221 CMD>  [36] 24 1b ca 84 58 78 78 77 87 76 77 67 67 66 77 87 68 67 67 77 78 67 77 77 77 77 77 67 77 76 77 77 67 66 77 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6274 CMD>  [6] 06 1b ca a4 67 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6300 CMD>  [36] 24 1b ca a6 66 77 87 77 87 88 78 78 76 77 87 78 87 77 88 88 78 88 78 77 88 78 78 68 79 78 78 68 88 77 88 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6363 CMD>  [36] 24 1b ca c6 78 87 88 68 88 68 76 88 89 86 88 77 88 87 78 87 67 76 88 87 86 78 88 77 88 87 77 88 77 77 88 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6430 CMD>  [36] 24 1b ca e6 88 86 76 78 77 88 87 88 87 88 87 77 77 88 78 67 78 77 87 87 77 67 67 86 84 88 76 87 77 88 78 58
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6480 CMD>  [36] 24 1b cb 06 88 87 77 86 88 77 87 57 77 87 76 78 78 77 78 77 77 77 67 78 77 67 77 88 77 76 67 77 67 77 68 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6544 CMD>  [6] 06 1b cb 26 77 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6570 CMD>  [36] 24 1b cb 28 76 65 87 77 86 77 87 67 78 77 77 87 88 88 88 87 87 88 87 88 87 78 77 87 97 79 78 88 88 87 86 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6635 CMD>  [36] 24 1b cb 48 87 88 88 78 77 77 87 78 87 88 86 78 87 87 87 88 77 86 78 87 76 77 88 87 78 86 87 88 77 67 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6687 CMD>  [36] 24 1b cb 68 87 88 88 69 78 87 76 88 78 88 87 78 78 88 78 66 78 88 68 87 86 78 67 77 86 78 78 58 88 68 67 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6753 CMD>  [36] 24 1b cb 88 87 77 78 67 87 67 77 78 87 87 76 77 88 77 87 77 77 76 67 87 77 67 78 66 77 66 77 76 87 78 77 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6804 CMD>  [6] 06 1b cb a8 66 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6830 CMD>  [36] 24 1b cb aa 57 65 77 57 77 78 86 78 87 86 78 88 88 77 88 88 88 86 88 88 87 78 87 77 88 87 77 87 89 88 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6882 CMD>  [36] 24 1b cb ca 77 78 78 78 87 77 88 88 87 88 78 77 88 67 98 88 78 88 88 88 88 87 68 87 78 76 77 87 78 87 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.6947 CMD>  [36] 24 1b cb ea 76 77 87 77 67 67 67 77 77 77 87 57 78 78 78 66 78 67 87 86 77 78 67 57 78 78 67 77 88 77 76 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7013 CMD>  [36] 24 1b cc 0a 87 88 68 57 87 76 77 66 78 77 88 78 78 67 78 77 77 77 77 67 77 67 77 78 64 57 58 86 78 56 67 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7064 CMD>  [6] 06 1b cc 2a 66 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7093 CMD>  [36] 24 1b cc 2c 75 65 78 77 88 75 77 66 76 86 87 88 89 88 78 88 78 78 98 68 87 88 78 77 78 78 88 87 98 87 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7142 CMD>  [36] 24 1b cc 4c 88 78 88 58 77 78 88 87 87 88 88 78 78 88 88 88 77 77 88 87 88 78 87 86 88 86 67 77 77 87 87 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7207 CMD>  [36] 24 1b cc 6c 88 78 87 78 88 76 78 77 88 88 87 77 88 77 67 87 77 68 87 88 68 78 78 77 77 88 68 88 78 88 78 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7272 CMD>  [36] 24 1b cc 8c 67 78 77 85 66 78 76 77 78 56 86 87 77 86 78 78 76 77 77 78 77 77 67 76 77 87 76 75 67 66 67 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7323 CMD>  [6] 06 1b cc ac 57 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7349 CMD>  [36] 24 1b cc ae 66 77 77 77 75 57 67 78 77 77 87 88 88 87 77 87 78 78 87 87 77 78 87 87 87 78 77 76 78 87 77 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7400 CMD>  [36] 24 1b cc ce 88 78 78 77 76 67 87 88 88 77 87 86 77 67 78 88 67 77 77 77 77 78 78 87 87 87 67 88 67 87 88 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7465 CMD>  [36] 24 1b cc ee 77 76 77 78 88 87 67 88 78 87 86 77 88 87 88 87 86 77 78 77 66 88 67 78 78 76 77 77 78 76 67 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7516 CMD>  [36] 24 1b cd 0e 76 88 77 78 67 57 76 78 68 77 76 77 76 76 66 86 77 66 76 67 77 77 78 67 67 67 66 87 77 75 67 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7568 CMD>  [6] 06 1b cd 2e 56 85
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7596 CMD>  [36] 24 1b cd 30 66 86 88 77 77 77 87 77 78 88 88 78 67 88 87 86 78 87 87 85 78 77 87 87 88 88 78 86 87 88 88 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7659 CMD>  [36] 24 1b cd 50 78 89 88 78 77 78 77 88 88 87 87 78 77 88 78 87 77 88 77 88 89 88 78 88 88 77 77 87 77 67 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7710 CMD>  [36] 24 1b cd 70 88 87 88 77 87 67 86 87 88 88 87 78 88 88 98 77 88 66 78 77 67 77 78 86 78 87 66 77 87 78 67 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7776 CMD>  [36] 24 1b cd 90 77 88 77 78 66 77 77 77 77 76 77 68 68 77 76 67 87 87 77 77 88 57 78 77 68 68 77 77 66 86 78 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7827 CMD>  [6] 06 1b cd b0 67 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7854 CMD>  [36] 24 1b cd b2 57 88 87 77 77 76 78 67 87 87 67 78 87 86 77 88 76 78 88 88 88 78 88 87 78 77 68 86 86 78 68 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7905 CMD>  [36] 24 1b cd d2 88 88 78 88 77 67 77 87 87 87 87 88 76 78 88 68 68 78 86 87 88 67 88 86 77 58 76 87 67 77 77 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.7958 CMD>  [36] 24 1b cd f2 88 87 88 77 77 78 88 88 78 87 88 87 88 88 77 77 77 78 66 77 78 87 76 77 47 76 67 87 88 78 66 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8022 CMD>  [36] 24 1b ce 12 78 77 77 87 87 87 86 67 77 76 76 76 78 85 76 77 68 65 77 76 77 67 67 77 77 67 87 86 67 76 77 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8087 CMD>  [6] 06 1b ce 32 67 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8112 CMD>  [36] 24 1b ce 34 67 76 78 66 76 87 86 78 87 67 87 87 88 87 88 87 88 78 88 77 88 77 87 78 87 77 78 87 88 78 88 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8177 CMD>  [36] 24 1b ce 54 88 87 79 78 78 88 77 88 78 88 75 77 87 88 88 87 86 78 77 87 78 88 77 87 88 87 88 87 68 88 89 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8240 CMD>  [36] 24 1b ce 74 67 88 78 78 87 87 77 68 88 88 88 65 87 76 77 76 78 75 77 76 86 77 77 87 78 78 67 77 77 78 67 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8293 CMD>  [36] 24 1b ce 94 77 77 77 77 77 78 66 77 87 77 66 77 78 77 87 77 77 78 77 67 67 68 77 76 77 76 65 67 77 68 68 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8344 CMD>  [6] 06 1b ce b4 76 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8371 CMD>  [36] 24 1b ce b6 57 77 88 78 88 77 65 77 78 87 87 78 87 88 88 78 86 57 78 88 88 88 88 77 87 87 87 87 77 77 86 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8437 CMD>  [36] 24 1b ce d6 88 88 77 78 78 88 77 78 88 78 78 78 78 87 86 88 88 68 77 86 88 77 88 86 68 88 76 88 77 88 88 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8501 CMD>  [36] 24 1b ce f6 88 87 68 67 77 77 78 87 77 87 77 88 88 87 78 77 87 77 77 88 87 87 65 66 78 78 78 65 78 68 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8552 CMD>  [36] 24 1b cf 16 76 78 77 77 76 77 77 77 67 76 76 77 67 76 76 87 78 66 58 66 76 57 67 76 76 78 77 75 67 76 66 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8617 CMD>  [6] 06 1b cf 36 77 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8643 CMD>  [36] 24 1b cf 38 66 75 77 76 67 78 57 68 77 77 88 88 88 87 87 66 77 77 88 78 77 68 86 87 88 77 97 77 88 87 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8695 CMD>  [36] 24 1b cf 58 87 87 88 87 77 77 78 76 56 87 87 88 78 87 88 87 76 76 77 88 78 67 77 87 77 77 77 87 78 77 77 68
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8761 CMD>  [36] 24 1b cf 78 87 87 88 78 66 78 76 88 88 88 77 77 77 87 87 77 77 67 88 66 78 78 88 66 78 76 76 86 77 88 56 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8823 CMD>  [36] 24 1b cf 98 88 66 77 77 66 67 77 87 57 67 66 77 86 66 77 77 67 67 66 76 77 77 66 87 67 67 66 77 67 66 57 57
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8888 CMD>  [6] 06 1b cf b8 68 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8918 CMD>  [36] 24 1b cf ba 67 66 88 88 58 67 76 78 77 78 87 88 88 87 87 88 88 77 78 88 78 78 88 77 78 78 88 87 87 77 86 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.8981 CMD>  [36] 24 1b cf da 88 77 68 78 78 78 77 89 87 88 87 88 78 86 86 88 88 78 76 87 88 78 88 87 77 77 66 87 78 78 87 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9043 CMD>  [36] 24 1b cf fa 67 77 78 77 76 88 77 68 78 78 77 78 87 78 88 85 76 77 77 88 78 78 66 77 87 68 67 76 87 67 68 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9109 CMD>  [36] 24 1b d0 1a 77 78 77 67 76 77 78 78 66 76 67 77 87 66 77 77 78 67 77 67 67 67 67 67 67 78 76 76 67 66 67 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9172 CMD>  [6] 06 1b d0 3a 67 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9198 CMD>  [36] 24 1b d0 3c 76 74 87 57 87 77 88 78 86 88 88 77 88 77 77 86 66 78 87 76 88 86 87 77 88 88 78 85 78 87 77 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9256 CMD>  [36] 24 1b d0 5c 79 87 88 78 88 77 86 88 77 87 67 88 77 77 66 88 78 78 76 87 88 77 78 87 77 77 78 88 88 76 78 57
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9316 CMD>  [36] 24 1b d0 7c 87 77 88 66 87 77 77 78 86 87 77 78 77 66 76 67 67 76 77 77 77 78 77 76 87 76 66 67 88 67 67 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9381 CMD>  [36] 24 1b d0 9c 76 67 68 77 77 67 76 67 67 87 76 68 77 66 67 78 76 66 77 77 77 67 56 67 66 77 76 75 66 66 67 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9447 CMD>  [6] 06 1b d0 bc 66 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9472 CMD>  [36] 24 1b d0 be 78 66 87 77 87 78 76 77 87 87 67 88 89 88 78 87 87 66 77 87 88 86 77 78 78 86 77 86 88 77 87 68
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9524 CMD>  [36] 24 1b d0 de 87 88 98 78 87 77 88 77 78 88 77 88 78 86 88 78 78 78 76 77 88 78 67 77 78 88 77 78 77 76 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9577 CMD>  [36] 24 1b d0 fe 87 87 78 88 87 77 67 88 67 86 87 88 77 87 77 77 87 76 77 77 78 66 77 87 76 86 67 67 87 88 66 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9639 CMD>  [36] 24 1b d1 1e 77 77 77 67 77 66 68 67 77 77 66 67 78 86 87 87 68 68 76 77 77 56 67 88 77 77 66 76 77 77 66 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9690 CMD>  [6] 06 1b d1 3e 66 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9716 CMD>  [36] 24 1b d1 40 56 55 77 67 76 66 66 68 77 77 88 77 77 65 77 88 78 77 78 86 78 78 78 67 87 87 68 75 77 77 68 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9772 CMD>  [36] 24 1b d1 60 87 86 77 77 87 77 87 78 86 77 77 78 77 87 88 87 78 88 67 78 78 76 77 87 87 86 78 88 67 57 78 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9835 CMD>  [36] 24 1b d1 80 76 57 78 68 78 67 76 68 67 87 78 68 78 77 76 76 78 66 77 77 67 67 67 77 77 76 56 78 77 68 66 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9899 CMD>  [36] 24 1b d1 a0 78 88 67 67 66 76 78 67 77 76 67 76 77 77 77 76 77 77 77 77 78 77 66 87 76 76 67 67 78 76 57 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9951 CMD>  [6] 06 1b d1 c0 66 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   5.9982 CMD>  [36] 24 1b d1 c2 66 75 77 77 67 77 55 67 88 88 78 88 76 77 76 86 88 66 88 76 77 78 77 76 77 76 78 77 78 77 67 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0043 CMD>  [36] 24 1b d1 e2 78 87 78 78 78 77 78 88 87 77 76 76 86 67 78 77 68 77 77 78 77 67 67 68 68 67 77 77 77 87 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0108 CMD>  [36] 24 1b d2 02 88 66 78 77 76 76 67 67 78 57 77 68 77 77 67 76 67 66 76 67 86 67 67 76 77 86 67 77 87 78 57 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0160 CMD>  [36] 24 1b d2 22 78 66 67 57 78 77 86 77 77 66 67 77 68 77 77 77 57 66 87 56 77 76 76 77 55 65 67 67 66 77 66 57
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0224 CMD>  [6] 06 1b d2 42 67 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0268 CMD>  [36] 24 1b d2 44 56 66 68 77 68 77 77 67 76 77 76 88 78 68 77 88 76 77 87 76 67 78 77 78 88 87 68 67 88 86 77 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0326 CMD>  [36] 24 1b d2 64 77 67 85 76 88 88 88 77 87 87 77 67 87 77 87 78 76 87 77 88 78 78 68 78 78 65 76 77 77 86 88 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0378 CMD>  [36] 24 1b d2 84 76 67 88 78 86 87 67 77 77 87 86 67 88 87 77 66 77 77 86 77 77 76 67 65 77 87 57 87 76 78 67 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0443 CMD>  [36] 24 1b d2 a4 67 77 88 67 77 66 76 66 66 57 66 78 67 67 67 75 77 57 76 56 67 75 57 68 66 77 57 75 65 76 67 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0495 CMD>  [6] 06 1b d2 c4 66 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0520 CMD>  [36] 24 1b d2 c6 56 66 77 68 67 77 66 77 77 76 67 88 66 77 76 77 77 87 88 88 75 77 67 87 77 67 77 86 88 77 77 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0573 CMD>  [36] 24 1b d2 e6 77 67 88 77 77 67 66 88 77 76 88 87 77 77 67 87 67 77 87 78 78 78 77 78 67 86 76 67 74 77 67 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0638 CMD>  [36] 24 1b d3 06 77 76 76 76 67 77 77 88 57 77 76 66 88 77 76 77 67 77 77 77 67 76 77 86 67 78 56 77 76 67 66 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0702 CMD>  [36] 24 1b d3 26 68 67 65 66 37 76 76 76 76 57 65 85 57 65 85 86 56 66 75 77 67 66 66 74 76 77 66 67 76 67 76 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0769 CMD>  [6] 06 1b d3 46 46 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0794 CMD>  [36] 24 1b d3 48 56 75 88 67 75 67 77 68 77 77 77 77 87 78 67 78 67 77 67 68 88 88 77 67 87 87 87 87 87 77 86 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0862 CMD>  [36] 24 1b d3 68 87 88 88 76 87 76 77 86 77 77 86 78 68 77 88 77 86 77 78 88 77 77 77 87 77 86 67 78 78 86 78 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0927 CMD>  [36] 24 1b d3 88 78 78 57 77 67 76 78 77 87 77 67 68 88 78 76 76 78 76 77 76 57 68 77 76 77 57 77 86 76 77 56 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.0992 CMD>  [36] 24 1b d3 a8 78 87 57 67 67 57 75 77 65 76 74 67 67 77 76 77 77 76 76 76 76 77 77 65 67 66 77 76 78 77 66 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1056 CMD>  [6] 06 1b d3 c8 45 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1084 CMD>  [36] 24 1b d3 ca 56 77 87 67 55 67 76 78 77 77 87 88 87 77 86 78 67 86 87 78 77 87 87 86 77 88 77 87 77 87 68 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1148 CMD>  [36] 24 1b d3 ea 77 86 77 77 68 77 88 77 77 87 77 78 77 77 78 88 68 68 86 77 77 67 67 87 77 77 75 87 87 68 88 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1200 CMD>  [36] 24 1b d4 0a 75 77 77 77 77 77 77 77 87 78 76 76 77 68 76 65 68 77 76 76 76 77 66 77 46 67 66 76 77 77 76 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1266 CMD>  [36] 24 1b d4 2a 76 87 65 77 76 67 76 67 76 66 76 66 66 66 77 75 67 67 76 56 77 67 56 77 76 74 76 66 66 75 76 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1330 CMD>  [6] 06 1b d4 4a 45 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1357 CMD>  [36] 24 1b d4 4c 47 76 78 77 67 67 67 68 87 78 88 78 48 78 77 87 66 67 87 88 77 78 87 77 77 78 77 86 68 75 78 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1408 CMD>  [36] 24 1b d4 6c 67 88 68 77 87 88 77 88 77 77 87 77 87 87 78 67 67 76 77 87 77 68 67 75 88 87 66 77 77 77 88 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1460 CMD>  [36] 24 1b d4 8c 87 78 77 87 77 77 77 77 78 78 66 77 78 87 77 65 78 67 67 65 66 76 67 66 78 78 77 67 57 67 76 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1524 CMD>  [36] 24 1b d4 ac 77 67 77 67 65 76 85 67 56 78 75 66 67 76 56 77 78 78 86 67 78 67 75 77 76 77 67 75 66 76 76 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1588 CMD>  [6] 06 1b d4 cc 65 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1615 CMD>  [36] 24 1b d4 ce 56 67 86 77 66 66 76 56 77 77 77 78 77 76 77 77 66 77 78 78 77 66 76 86 87 88 77 87 76 66 88 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1666 CMD>  [36] 24 1b d4 ee 88 78 87 68 77 78 88 88 77 87 67 76 77 65 67 77 76 78 77 77 77 68 67 77 78 77 68 76 67 76 66 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1718 CMD>  [36] 24 1b d5 0e 78 77 77 77 77 77 67 88 87 88 66 77 77 68 87 66 77 66 67 77 77 75 66 76 77 77 66 75 88 77 67 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1783 CMD>  [36] 24 1b d5 2e 78 77 67 66 77 77 67 67 86 76 66 78 76 66 67 77 77 66 56 75 56 56 76 76 66 78 65 76 75 56 66 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1834 CMD>  [6] 06 1b d5 4e 36 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1859 CMD>  [36] 24 1b d5 50 57 65 76 67 67 77 87 67 78 67 77 77 75 78 68 78 78 78 77 78 58 78 76 76 77 77 78 76 76 77 87 86
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1926 CMD>  [36] 24 1b d5 70 75 87 67 67 87 66 68 87 68 86 76 77 77 77 77 77 67 77 77 67 77 57 77 76 77 78 77 87 77 66 78 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.1989 CMD>  [36] 24 1b d5 90 77 66 77 77 87 77 66 66 77 67 77 76 77 76 76 77 78 66 87 66 77 77 56 77 87 87 76 86 77 77 66 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2041 CMD>  [36] 24 1b d5 b0 66 77 78 66 66 67 65 67 67 56 67 67 87 76 67 77 76 67 65 66 77 57 75 57 56 66 68 76 77 67 57 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2106 CMD>  [6] 06 1b d5 d0 56 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2133 CMD>  [36] 24 1b d5 d2 66 76 77 76 87 66 67 77 76 67 78 87 77 76 76 77 87 76 87 87 67 77 77 88 78 88 77 87 78 87 88 88
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2184 CMD>  [36] 24 1b d5 f2 87 86 78 77 66 77 77 68 77 77 78 78 67 67 76 87 57 68 67 88 68 87 66 77 76 77 67 77 76 67 78 78
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2236 CMD>  [36] 24 1b d6 12 67 76 67 67 87 67 77 77 65 75 67 76 67 76 77 76 75 67 56 77 58 78 67 87 67 86 67 76 78 77 66 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2301 CMD>  [36] 24 1b d6 32 77 76 77 67 77 75 77 78 66 86 87 77 78 76 76 57 77 66 56 66 77 56 67 65 76 67 56 56 56 66 56 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2353 CMD>  [6] 06 1b d6 52 66 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2379 CMD>  [36] 24 1b d6 54 65 66 65 65 76 66 66 76 76 67 87 77 67 77 68 77 77 75 77 75 68 77 67 87 77 78 67 76 88 77 77 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2449 CMD>  [36] 24 1b d6 74 78 87 87 67 76 76 68 78 87 87 86 77 67 86 58 67 67 87 77 87 68 78 77 76 76 77 67 76 67 66 78 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2501 CMD>  [36] 24 1b d6 94 77 76 78 67 76 66 75 77 76 87 77 78 77 66 66 66 77 77 75 66 67 77 66 76 57 76 66 77 67 76 66 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2565 CMD>  [36] 24 1b d6 b4 77 87 56 67 67 77 65 65 77 65 66 67 76 75 65 77 77 66 66 66 66 65 64 76 75 68 66 66 66 64 67 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2631 CMD>  [6] 06 1b d6 d4 55 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2656 CMD>  [36] 24 1b d6 d6 66 66 77 77 76 76 65 77 78 67 57 87 68 87 68 77 77 67 66 77 77 66 77 66 78 77 88 67 67 77 67 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2721 CMD>  [36] 24 1b d6 f6 88 77 67 77 87 66 77 68 67 77 76 78 76 77 87 76 67 88 77 77 78 77 77 87 68 77 77 66 66 65 77 87
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2786 CMD>  [36] 24 1b d7 16 78 67 77 78 76 66 57 87 76 86 67 77 67 67 67 76 68 75 76 65 87 67 75 75 86 66 67 67 87 66 77 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2851 CMD>  [36] 24 1b d7 36 76 67 76 67 65 56 66 86 67 67 76 67 56 76 47 65 67 65 77 66 66 65 67 76 56 77 67 65 56 66 67 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2902 CMD>  [6] 06 1b d7 56 46 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2928 CMD>  [36] 24 1b d7 58 46 73 78 66 76 77 67 75 67 87 77 77 78 75 66 86 67 77 68 77 68 77 76 66 77 87 56 77 87 77 68 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.2980 CMD>  [36] 24 1b d7 78 88 77 88 67 77 77 77 77 76 76 66 58 87 77 87 76 66 77 77 47 78 67 67 78 87 76 65 77 77 66 77 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3044 CMD>  [36] 24 1b d7 98 77 66 87 66 76 77 67 77 67 77 76 67 78 67 77 77 75 75 76 77 87 67 65 66 86 67 67 77 77 77 46 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3096 CMD>  [36] 24 1b d7 b8 77 77 68 76 37 65 66 77 66 76 66 67 56 56 75 76 76 77 76 66 76 47 66 76 66 67 67 76 76 66 66 45
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3160 CMD>  [6] 06 1b d7 d8 55 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3187 CMD>  [36] 24 1b d7 da 45 65 76 57 77 77 76 57 76 67 77 68 87 77 76 87 87 76 78 67 77 86 67 88 78 78 87 77 77 77 66 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3239 CMD>  [36] 24 1b d7 fa 76 77 76 67 57 77 66 77 66 77 66 77 77 76 67 77 66 76 66 76 77 56 67 67 57 74 67 77 77 77 67 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3291 CMD>  [36] 24 1b d8 1a 77 65 76 67 77 66 67 57 66 67 66 75 57 67 76 75 67 76 67 36 76 76 57 56 76 77 65 76 77 76 76 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3355 CMD>  [36] 24 1b d8 3a 77 77 64 57 55 57 56 57 67 66 66 67 76 66 66 77 67 67 56 66 67 66 66 66 66 66 67 67 66 66 66 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3424 CMD>  [6] 06 1b d8 5a 56 54
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3447 CMD>  [36] 24 1b d8 5c 54 55 77 66 87 66 56 67 66 77 76 77 68 77 77 77 77 77 67 77 78 77 66 76 77 66 77 67 87 67 67 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3511 CMD>  [36] 24 1b d8 7c 77 88 66 67 85 67 47 68 77 77 76 68 76 86 68 78 77 66 76 77 88 67 67 67 67 77 67 67 66 67 87 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3562 CMD>  [36] 24 1b d8 9c 66 76 86 78 66 66 77 78 75 76 76 56 77 65 67 67 77 66 66 66 66 67 67 76 66 77 57 76 76 76 67 68
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3628 CMD>  [36] 24 1b d8 bc 76 75 66 56 66 76 64 56 56 66 56 68 67 56 77 57 86 65 76 67 66 65 66 65 66 55 56 66 56 64 56 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3679 CMD>  [6] 06 1b d8 dc 55 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3705 CMD>  [36] 24 1b d8 de 55 65 77 55 77 55 65 77 67 66 76 77 67 67 66 87 77 77 66 76 78 76 77 77 86 67 77 77 77 87 56 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3774 CMD>  [36] 24 1b d8 fe 78 87 67 77 76 66 66 77 66 86 77 77 77 76 76 67 65 67 67 87 78 77 67 76 66 87 66 86 67 75 88 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3837 CMD>  [36] 24 1b d9 1e 76 65 67 75 76 67 76 77 67 75 76 76 77 67 76 77 66 67 76 66 66 76 76 77 56 67 76 66 65 76 66 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3900 CMD>  [36] 24 1b d9 3e 77 76 67 57 77 46 67 66 76 65 56 57 65 66 76 66 76 65 67 65 65 66 66 77 66 67 57 56 56 56 56 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3965 CMD>  [6] 06 1b d9 5e 55 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.3991 CMD>  [36] 24 1b d9 60 46 76 77 57 76 66 75 66 67 76 87 65 57 67 76 57 67 65 77 77 78 87 47 77 77 77 67 76 87 86 67 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4043 CMD>  [36] 24 1b d9 80 77 87 77 67 86 77 76 87 67 67 87 66 66 66 76 77 67 67 75 77 68 57 67 87 77 77 66 67 66 77 68 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4106 CMD>  [36] 24 1b d9 a0 78 66 76 67 57 66 66 77 78 67 67 57 77 77 77 56 67 66 67 87 66 67 66 77 75 87 66 66 77 76 76 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4157 CMD>  [36] 24 1b d9 c0 76 78 65 77 66 67 75 66 67 66 77 78 65 66 76 75 57 56 66 75 76 66 66 56 55 67 66 56 75 75 57 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4222 CMD>  [6] 06 1b d9 e0 55 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4259 CMD>  [36] 24 1b d9 e2 56 56 77 56 66 65 56 77 58 66 77 67 67 76 77 77 57 66 87 87 77 66 67 77 77 76 67 76 65 66 68 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4316 CMD>  [36] 24 1b da 02 66 77 67 67 76 66 57 78 67 76 67 77 77 77 76 76 77 87 66 58 58 66 56 86 67 76 55 75 67 66 77 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4367 CMD>  [36] 24 1b da 22 87 66 57 66 56 66 66 66 78 67 77 56 66 67 76 66 66 56 66 77 65 67 65 67 77 56 66 66 56 66 66 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4432 CMD>  [36] 24 1b da 42 66 77 56 56 65 66 66 56 65 75 65 66 56 75 67 55 65 66 75 66 66 65 56 56 56 66 57 64 65 65 56 46
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4484 CMD>  [6] 06 1b da 62 55 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4510 CMD>  [36] 24 1b da 64 57 67 76 56 57 66 46 56 66 76 77 66 77 87 77 77 68 67 77 77 66 78 87 76 77 87 77 76 77 77 68 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4561 CMD>  [36] 24 1b da 84 76 77 77 77 77 67 56 67 77 57 67 77 67 77 87 76 76 67 66 77 77 68 76 75 77 66 57 75 67 75 76 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4624 CMD>  [36] 24 1b da a4 66 76 76 66 64 67 75 66 77 67 77 67 75 67 76 66 66 66 75 75 67 77 77 66 65 76 56 65 77 78 46 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4691 CMD>  [36] 24 1b da c4 76 56 66 46 76 77 64 76 66 57 64 65 56 65 75 66 66 56 76 66 76 76 55 65 76 76 66 46 66 36 56 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4754 CMD>  [6] 06 1b da e4 46 54
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4780 CMD>  [36] 24 1b da e6 56 67 57 57 76 67 66 66 66 76 67 76 67 77 67 76 87 76 78 77 78 77 77 67 77 76 67 75 78 85 58 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4832 CMD>  [36] 24 1b db 06 78 88 76 67 76 78 77 77 67 87 77 68 67 66 67 77 65 68 65 78 78 77 57 87 76 77 77 75 65 77 68 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4883 CMD>  [36] 24 1b db 26 78 76 76 75 47 66 56 68 66 66 76 67 67 75 67 76 66 67 67 66 67 66 57 66 57 87 77 66 67 75 56 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4948 CMD>  [6] 06 1e 00 04 00 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.4961 CMD>  [36] 24 1b db 46 45 87 67 65 65 56 66 77 66 66 76 55 66 66 67 65 68 55 66 66 67 67 75 56 55 66 54 65 54 66 56 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5025 CMD>  [6] 06 1b db 66 45 47
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5052 CMD>  [36] 24 1b db 68 55 55 77 67 75 57 64 66 75 76 67 77 57 76 55 57 78 77 77 76 68 67 57 66 87 88 67 76 68 67 77 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5104 CMD>  [36] 24 1b db 88 67 86 66 66 76 77 65 76 67 76 66 68 57 76 66 77 68 77 66 77 66 78 66 66 75 67 66 76 77 65 77 57
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5155 CMD>  [36] 24 1b db a8 67 67 66 76 76 55 76 56 65 77 65 65 56 66 85 65 66 76 76 76 66 86 55 66 57 66 45 76 74 77 66 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5220 CMD>  [36] 24 1b db c8 66 56 66 66 66 56 46 76 55 76 66 67 67 65 76 75 57 57 76 56 67 66 76 75 56 66 45 66 65 56 56 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5272 CMD>  [6] 06 1b db e8 45 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5298 CMD>  [36] 24 1b db ea 55 66 77 66 67 76 56 66 76 56 86 76 67 77 77 76 76 48 66 77 67 77 67 66 68 68 67 76 78 66 67 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5351 CMD>  [36] 24 1b dc 0a 67 77 77 77 77 77 77 76 76 66 66 67 77 65 77 67 67 67 86 78 67 78 67 66 67 65 57 66 64 66 57 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5404 CMD>  [36] 24 1b dc 2a 67 76 78 55 67 66 72 57 67 77 66 77 66 77 76 46 67 56 66 66 65 76 65 66 76 76 66 66 66 76 66 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5468 CMD>  [36] 24 1b dc 4a 67 66 76 67 76 66 67 77 76 45 66 66 64 76 66 66 66 66 66 65 66 46 66 66 46 66 56 65 65 66 54 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5519 CMD>  [6] 06 1b dc 6a 55 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5546 CMD>  [36] 24 1b dc 6c 55 35 65 66 66 56 65 66 77 76 77 67 56 77 77 76 66 77 76 87 77 77 67 45 68 86 68 77 88 56 66 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5598 CMD>  [36] 24 1b dc 8c 78 77 78 57 66 66 77 76 57 76 56 78 66 76 66 87 76 67 67 77 67 67 66 77 57 76 56 76 67 76 77 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5662 CMD>  [36] 24 1b dc ac 77 77 77 66 66 55 75 57 75 76 65 65 57 67 77 63 66 66 76 66 64 67 47 56 76 56 55 77 67 75 56 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5715 CMD>  [36] 24 1b dc cc 65 66 66 66 55 56 75 67 55 66 66 76 66 75 66 67 65 66 65 56 77 67 76 67 54 66 67 65 66 66 65 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5778 CMD>  [6] 06 1b dc ec 55 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5804 CMD>  [36] 24 1b dc ee 55 66 77 66 77 76 66 77 77 75 77 87 66 75 65 76 54 56 77 86 67 77 76 77 66 56 66 65 77 67 57 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5853 CMD>  [36] 24 1b dd 0e 77 77 77 87 77 65 67 77 77 77 76 76 56 66 77 66 76 76 66 77 66 77 76 76 66 66 46 76 66 57 76 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5921 CMD>  [36] 24 1b dd 2e 66 66 56 67 67 65 66 67 75 67 56 57 66 67 65 66 67 65 65 76 76 57 86 57 56 66 56 67 67 77 57 57
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.5984 CMD>  [36] 24 1b dd 4e 65 76 66 55 65 66 55 66 57 67 55 56 66 66 65 66 57 65 56 66 56 56 46 66 65 65 66 62 66 55 46 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6048 CMD>  [6] 06 1b dd 6e 54 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6077 CMD>  [36] 24 1b dd 70 56 63 77 57 66 67 76 56 76 55 77 67 47 76 66 77 66 67 76 77 66 66 76 77 57 76 68 77 77 66 57 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6139 CMD>  [36] 24 1b dd 90 68 77 66 76 67 66 76 67 76 76 76 78 77 66 66 57 76 55 66 78 77 66 75 76 66 67 67 65 66 67 66 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6201 CMD>  [36] 24 1b dd b0 77 65 65 66 76 66 55 67 75 56 76 77 66 65 76 56 65 56 66 76 57 66 66 67 66 66 55 66 77 66 56 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6267 CMD>  [36] 24 1b dd d0 66 67 66 57 56 77 57 56 66 66 64 77 66 65 65 65 66 64 76 55 55 57 66 67 55 56 66 55 74 65 55 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6318 CMD>  [6] 06 1b dd f0 65 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6344 CMD>  [36] 24 1b dd f2 54 55 66 65 76 56 56 67 75 76 75 76 67 67 87 76 68 56 77 65 66 67 66 66 67 77 67 66 87 76 67 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6397 CMD>  [36] 24 1b de 12 77 77 66 67 67 67 56 77 77 66 66 77 55 56 75 87 66 67 66 77 66 67 57 76 66 76 66 76 65 56 75 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6461 CMD>  [36] 24 1b de 32 77 65 46 67 66 66 66 56 76 77 66 76 77 86 65 66 66 65 66 64 77 66 56 66 76 77 65 66 67 77 46 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6513 CMD>  [36] 24 1b de 52 66 67 65 47 66 66 66 66 66 66 55 66 47 65 76 56 76 56 56 66 65 55 55 66 65 55 56 66 56 54 66 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6565 CMD>  [6] 06 1b de 72 55 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6594 CMD>  [36] 24 1b de 74 65 64 77 76 76 75 56 66 65 76 66 77 67 66 66 76 76 56 77 77 67 67 67 75 77 67 67 76 87 76 66 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6657 CMD>  [36] 24 1b de 94 87 76 76 67 67 76 77 77 76 56 76 67 67 76 77 77 66 77 75 77 67 77 66 66 66 67 67 76 66 66 77 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6709 CMD>  [36] 24 1b de b4 67 77 57 67 66 57 76 56 66 66 64 67 77 76 76 66 75 55 76 66 57 66 56 67 47 65 55 66 67 57 66 67
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6774 CMD>  [36] 24 1b de d4 66 77 56 66 66 57 65 57 74 64 67 67 46 66 45 66 67 55 55 65 67 66 55 66 65 66 66 55 55 56 57 46
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6832 CMD>  [6] 06 1b de f4 45 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6858 CMD>  [36] 24 1b de f6 55 54 67 65 65 66 56 66 76 56 47 66 56 66 66 66 56 56 65 66 67 56 66 66 77 57 57 66 77 66 67 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6924 CMD>  [36] 24 1b df 16 76 75 67 56 75 66 76 67 65 56 67 67 57 66 67 68 66 67 55 65 67 76 55 47 65 66 66 76 56 76 76 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.6988 CMD>  [36] 24 1b df 36 67 65 45 56 75 67 55 66 76 74 76 55 66 66 65 66 66 65 66 66 66 67 56 66 66 55 56 56 65 65 56 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7040 CMD>  [36] 24 1b df 56 56 66 55 56 55 56 66 56 65 54 65 55 57 66 56 56 46 56 45 66 66 56 76 66 55 66 44 55 64 55 66 45
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7105 CMD>  [6] 06 1b df 76 65 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7131 CMD>  [36] 24 1b df 78 56 54 76 66 56 66 46 67 66 66 66 66 65 66 76 67 66 66 78 77 76 57 67 65 77 67 67 66 67 57 77 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7196 CMD>  [36] 24 1b df 98 67 77 75 66 66 77 66 68 56 67 66 66 57 66 67 67 66 57 55 67 66 76 66 77 76 56 66 87 67 66 67 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7262 CMD>  [36] 24 1b df b8 86 45 67 56 56 65 66 47 76 66 67 76 66 56 66 76 66 55 76 73 57 64 56 65 66 75 55 75 65 66 65 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7326 CMD>  [36] 24 1b df d8 46 76 66 45 55 65 56 56 57 66 64 55 66 74 65 66 46 55 55 65 55 65 67 74 64 56 65 65 65 55 64 45
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7377 CMD>  [6] 06 1b df f8 65 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7408 CMD>  [36] 24 1b df fa 45 45 66 67 64 66 66 56 76 65 76 77 56 67 65 66 75 66 77 67 76 76 67 56 77 76 66 56 67 75 66 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7471 CMD>  [36] 24 1b e0 1a 67 77 66 76 66 66 67 76 47 76 67 67 47 66 67 74 66 77 66 86 77 67 56 75 65 56 56 77 75 74 67 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7535 CMD>  [36] 24 1b e0 3a 76 77 66 46 76 45 66 66 76 67 65 66 57 76 67 66 66 55 65 65 56 66 64 66 77 66 46 56 55 65 56 46
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7587 CMD>  [36] 24 1b e0 5a 65 65 56 45 66 66 54 57 66 65 56 66 55 55 55 56 66 56 54 66 56 57 65 46 65 66 66 56 55 64 67 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7651 CMD>  [6] 06 1b e0 7a 54 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7678 CMD>  [36] 24 1b e0 7c 45 55 56 66 75 56 66 55 67 76 66 65 66 76 76 76 66 55 76 58 65 66 66 76 76 76 67 56 66 77 66 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7744 CMD>  [36] 24 1b e0 9c 67 65 57 67 76 55 65 77 76 76 65 57 66 56 66 76 55 67 66 65 46 56 66 66 66 76 66 65 66 66 67 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7795 CMD>  [36] 24 1b e0 bc 66 66 47 65 65 67 66 65 66 56 55 57 56 76 66 56 56 56 66 56 76 65 55 65 56 46 55 66 67 76 55 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7859 CMD>  [36] 24 1b e0 dc 65 66 66 54 65 66 55 66 64 75 54 66 64 65 55 45 56 64 56 65 55 46 53 55 55 56 55 53 55 55 45 54
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7924 CMD>  [6] 06 1b e0 fc 56 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.7950 CMD>  [36] 24 1b e0 fe 26 55 56 56 76 56 56 66 66 65 66 66 66 76 76 66 57 65 76 76 77 66 66 76 66 65 66 66 67 65 66 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8002 CMD>  [36] 24 1b e1 1e 77 66 78 66 67 66 66 77 47 67 66 75 56 76 77 76 66 76 65 67 57 66 56 65 65 66 65 66 54 55 66 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8067 CMD>  [36] 24 1b e1 3e 66 66 56 55 67 66 65 55 67 66 35 56 56 55 66 76 56 65 66 66 56 56 55 66 55 56 46 76 55 65 66 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8132 CMD>  [36] 24 1b e1 5e 64 56 66 66 66 77 57 66 46 56 66 66 66 74 65 44 66 65 46 45 54 55 45 66 54 66 64 54 56 65 55 45
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8195 CMD>  [6] 06 1b e1 7e 45 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8222 CMD>  [36] 24 1b e1 80 56 55 67 76 57 75 65 66 45 66 77 56 75 77 76 55 66 56 57 65 77 67 75 66 66 76 67 64 67 65 67 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8287 CMD>  [36] 24 1b e1 a0 67 66 77 66 56 54 66 66 66 65 75 76 66 65 75 76 56 77 67 65 46 67 75 66 66 65 55 66 65 64 77 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8338 CMD>  [36] 24 1b e1 c0 66 67 56 55 65 65 65 66 66 75 65 65 57 66 75 55 56 55 55 65 66 66 46 55 56 66 45 56 55 75 56 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8389 CMD>  [36] 24 1b e1 e0 65 66 66 46 66 56 66 66 36 45 65 67 45 46 66 76 66 54 65 63 55 56 54 54 45 56 55 65 44 45 54 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8454 CMD>  [6] 06 1b e2 00 54 75
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8480 CMD>  [36] 24 1b e2 02 55 65 66 55 56 57 65 57 56 65 66 76 77 65 76 76 67 76 66 67 67 66 66 76 57 67 76 67 66 66 56 77
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8545 CMD>  [36] 24 1b e2 22 67 67 76 54 67 67 67 56 76 63 76 77 55 67 65 66 66 66 75 76 66 77 66 75 65 57 56 77 36 66 76 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8609 CMD>  [36] 24 1b e2 42 67 64 67 65 66 76 75 65 66 56 55 66 66 65 67 65 56 65 56 66 65 66 55 54 66 67 55 56 55 76 45 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8660 CMD>  [36] 24 1b e2 62 56 77 55 55 55 55 65 56 55 66 65 55 56 66 66 37 76 55 45 45 66 66 46 56 66 66 55 65 65 55 55 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8725 CMD>  [6] 06 1b e2 82 42 45
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8754 CMD>  [36] 24 1b e2 84 36 66 66 55 65 66 65 77 66 65 75 76 56 76 44 65 55 57 66 65 56 67 66 65 66 76 67 54 76 75 65 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8806 CMD>  [36] 24 1b e2 a4 67 66 76 56 66 64 65 57 56 66 55 65 47 75 57 56 56 76 45 65 66 57 66 85 66 76 55 56 56 55 77 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8870 CMD>  [36] 24 1b e2 c4 76 56 66 65 56 56 65 76 56 55 66 66 75 56 56 55 66 65 44 45 56 75 56 65 55 66 55 75 56 66 45 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8935 CMD>  [36] 24 1b e2 e4 64 66 66 55 55 66 55 65 66 66 65 57 56 56 66 55 66 55 46 55 46 54 56 44 65 65 66 74 55 45 56 35
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.8986 CMD>  [6] 06 1b e3 04 54 54
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9012 CMD>  [36] 24 1b e3 06 35 65 75 66 65 66 65 56 76 66 75 67 56 77 66 75 76 66 76 66 66 65 66 64 68 56 56 66 56 65 56 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9064 CMD>  [36] 24 1b e3 26 77 66 67 46 74 66 66 67 76 66 67 66 56 56 65 68 65 66 66 65 56 66 65 66 66 77 45 65 66 56 64 56
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9129 CMD>  [36] 24 1b e3 46 66 67 75 66 56 55 64 66 55 76 66 56 66 65 76 45 67 65 65 56 46 55 66 45 56 65 45 56 66 56 55 54
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9181 CMD>  [36] 24 1b e3 66 65 55 66 55 65 45 54 56 55 65 66 57 56 66 45 66 56 56 56 45 55 55 65 65 56 66 55 64 55 44 55 54
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9232 CMD>  [6] 06 1b e3 86 44 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9259 CMD>  [36] 24 1b e3 88 35 53 67 66 64 55 66 56 66 56 65 66 67 67 66 77 67 67 66 65 66 75 66 65 68 75 66 65 68 66 57 64
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9310 CMD>  [36] 24 1b e3 a8 66 57 77 76 66 65 56 76 66 56 65 56 66 55 66 55 66 77 66 47 66 56 66 76 56 56 65 65 65 76 66 76
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9362 CMD>  [36] 24 1b e3 c8 66 65 46 56 65 66 66 66 75 66 55 65 56 56 66 55 66 64 66 56 65 65 46 76 66 76 55 66 65 56 66 45
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9428 CMD>  [36] 24 1b e3 e8 66 66 55 56 65 66 55 57 55 66 66 56 55 56 65 66 56 55 46 54 56 54 54 55 45 56 66 55 56 64 45 44
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9480 CMD>  [6] 06 1b e4 08 43 43
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9506 CMD>  [36] 24 1b e4 0a 45 45 57 54 65 55 64 55 76 56 65 66 54 66 55 46 57 56 67 65 67 56 66 65 65 66 56 54 74 56 56 65
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9557 CMD>  [36] 24 1b e4 2a 56 56 55 66 65 66 56 66 66 56 65 56 56 65 66 65 56 65 65 76 78 66 55 55 66 56 45 65 44 56 66 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9622 CMD>  [36] 24 1b e4 4a 65 67 56 46 66 45 46 66 65 64 66 45 65 66 56 65 46 46 65 65 65 66 64 65 55 56 44 66 45 56 54 46
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9674 CMD>  [36] 24 1b e4 6a 66 64 56 56 65 65 56 65 54 55 65 45 67 64 56 65 56 56 55 55 65 56 55 44 45 55 54 65 65 44 55 54
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9725 CMD>  [6] 06 1b e4 8a 44 54
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9753 CMD>  [36] 24 1b e4 8c 46 54 65 45 66 46 64 66 65 65 66 66 56 65 65 56 76 66 66 66 66 66 76 56 76 67 46 65 57 66 55 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9818 CMD>  [36] 24 1b e4 ac 65 65 67 55 76 56 67 55 65 56 66 57 56 56 67 76 66 56 75 65 66 66 66 66 75 66 65 66 64 75 56 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9882 CMD>  [36] 24 1b e4 cc 66 66 56 56 44 66 56 57 64 65 56 56 66 65 55 44 66 66 55 54 56 66 55 56 56 45 46 56 65 77 55 66
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   6.9948 CMD>  [36] 24 1b e4 ec 55 66 76 54 66 54 55 55 65 55 55 56 56 65 64 55 67 36 55 44 55 46 54 55 56 56 55 55 55 35 45 46
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0012 CMD>  [6] 06 1b e5 0c 75 44
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0038 CMD>  [36] 24 1b e5 0e 44 45 46 55 64 46 63 56 66 65 54 66 56 55 56 66 66 65 75 55 56 66 66 66 66 55 66 56 75 65 56 54
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0090 CMD>  [36] 24 1b e5 2e 56 65 65 56 56 65 47 66 55 65 64 66 63 65 55 66 45 65 55 65 46 55 65 65 66 55 65 57 64 55 66 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0155 CMD>  [36] 24 1b e5 4e 74 55 55 46 55 65 44 56 55 66 55 56 64 54 66 64 66 45 55 55 54 55 45 55 66 55 35 56 65 54 45 55
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0206 CMD>  [36] 24 1b e5 6e 64 65 56 45 66 45 34 66 55 65 76 55 54 55 55 44 46 44 45 43 65 44 45 54 35 34 35 64 44 55 45 46
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0271 CMD>  [6] 06 1b e5 8e 54 44
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0297 CMD>  [36] 24 1b e5 90 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0361 CMD>  [36] 24 1b e5 b0 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0425 CMD>  [36] 24 1b e5 d0 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0478 CMD>  [36] 24 1b e5 f0 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0530 CMD>  [6] 06 1b e6 10 ff ff
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0556 CMD>  [36] 24 1b e6 12 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0608 CMD>  [36] 24 1b e6 32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0673 CMD>  [36] 24 1b e6 52 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0725 CMD>  [36] 24 1b e6 72 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0777 CMD>  [6] 06 1b e6 92 00 00
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0803 CMD>  [5] 05 1b 01 01 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0829 CMD>  [8] 08 01 01 01 04 00 cc 19
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0868 CMD>  [3] 03 02 01
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.0885 CMD>  [6] 06 1e 00 10 00 10
+            (EP2 IN: 1 pkts, 6 bytes, first: 06 86 01 06 00 00)
+   7.1333 CMD>  [6] 06 1e 00 10 00 00
+            (EP2 IN: 3379 pkts, 1726662 bytes, first: 06 86 01 06 00 00 06 87 00 01 4a 0d ff 3f ff 3f ff 3f ff 3f ff 3f ff 3f)
+   7.9667 CMD>  [6] 06 1e 00 40 00 40
+            (EP2 IN: 428 pkts, 218776 bytes, first: 06 87 00 00 7a 0e e8 2a 30 2b f8 2c 18 2b 49 2c 13 2c b7 2c d2 2c 0b 2b)
+   8.0516 CMD>  [6] 06 1e 00 40 00 00
+            (EP2 IN: 10284 pkts, 5256586 bytes, first: 06 87 00 01 22 0e 37 2c d4 2b ea 2c 2f 2d a0 2c 6a 2e 39 2d 01 2e 45 2c)
+  10.6487 CMD>  [6] 06 1e 00 10 00 10
+            (EP2 IN: 409 pkts, 209048 bytes, first: 06 86 00 00 42 12 10 2c ff 2b 0c 2e c4 2d e4 2b 08 2c 09 2e 64 2c fc 2d)
+  10.7298 CMD>  [6] 06 1e 00 10 00 00
+            (EP2 IN: 3577 pkts, 1828364 bytes, first: 06 86 00 00 6a 12 5c 2d bb 2c 2e 2d fb 2a 58 2b 38 2d ec 2c c4 2b bb 2b)
+  11.4385 CMD>  [6] 06 1e 00 40 00 40
+            (EP2 IN: 426 pkts, 217752 bytes, first: 06 87 00 01 32 13 32 2b f9 2b 10 2d fc 2b 43 2b f8 2c 70 2b 7a 2c d0 2a)
+  11.5228 CMD>  [6] 06 1e 00 40 00 00
+            (EP2 IN: 30913 pkts, 15800484 bytes, first: 06 87 00 01 52 13 b6 2e 4b 2d 9d 2d 5b 2e 64 2c e1 2c 16 2c 7d 2c 3e 2d)
+  56.5168 CMD>  [6] 06 1e 00 10 00 10
+            (EP2 IN: 348 pkts, 177816 bytes, first: 06 86 01 01 42 1e b8 2d d9 2e 78 2d d9 2d 7f 2d a4 2e 72 2d 85 2e 59 2d)
+  56.5859 CMD>  [6] 06 1e 00 10 00 00
+            (EP2 IN: 3586 pkts, 1832972 bytes, first: 06 86 00 01 6a 1e 4f 1e 2e 1c 40 1c 1f 1d dd 1b 3c 1f 9f 1e 53 1f b8 22)
+  57.2965 CMD>  [6] 06 1e 00 40 00 40
+            (EP2 IN: 426 pkts, 217752 bytes, first: 06 87 00 00 32 20 5a 2b a3 2b 6a 2d 8a 2b c0 2c 87 2c 20 2d 46 2d 7b 2b)
+  57.3809 CMD>  [6] 06 1e 00 40 00 00
+            (EP2 IN: 20875 pkts, 10670180 bytes, first: 06 87 00 01 52 20 c3 2e b3 2e d0 2c ea 2c f4 2e 8c 2e 26 2e 37 2e ad 2c)
+  61.7967 CMD>  [6] 06 1e 00 10 00 10
+            (EP2 IN: 316 pkts, 161432 bytes, first: 06 86 01 01 32 27 bb 2f 73 2e 86 30 5a 2e 99 30 be 2d 7f 2d 39 2e db 2d)
+  61.8594 CMD>  [6] 06 1e 00 10 00 00
+            (EP2 IN: 3580 pkts, 1829900 bytes, first: 06 86 01 01 5a 27 64 2c a5 2c ef 2d 71 2c 1d 2d 3a 2c 69 2c aa 2c 69 2c)
+  62.5688 CMD>  [6] 06 1e 00 40 00 40
+            (EP2 IN: 426 pkts, 217752 bytes, first: 06 87 01 01 1a 29 f5 2c 00 2c b7 2c 9e 2c 72 2d 19 2d c7 2d 79 2b 92 2d)
+  62.6532 CMD>  [6] 06 1e 00 40 00 00
